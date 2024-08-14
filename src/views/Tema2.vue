@@ -46,7 +46,7 @@
           .tarjeta-avatar-b.mb-3
             .tarjeta-avatar-b__img
               img.img-t.m-auto.mx-auto(src='@/assets/curso/images/tema2/img_5.svg', alt='')
-            .tarjeta.bg-04.shadow-sm
+            .tarjeta.bg-13.shadow-sm
               .p-3
               p Con el fin de establecer un método sencillo para cuantificar variables con las que se pueda determinar la ubicación de un proyecto, se pueden utilizar las siguientes:  
       .col-lg-5.mb-3(data-aos="fade-right")
@@ -117,14 +117,14 @@
             p.text-center Corresponde al máximo nivel posible de producción o de prestación del servicio
 
       .col-md-2.col-lg.mb-5.mb-lg-0
-        .tarjeta.bg-05
+        .tarjeta.bg-06
           .p-4
             img(src='@/assets/curso/images/tema2/img_9.png' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad instalada
             p.text-center Corresponde a la capacidad máxima disponible permanentemente.
 
       .col-md-2.col-lg.mb-5.mb-lg-0
-        .tarjeta.bg-03
+        .tarjeta.bg-04
           .p-4
             img(src='@/assets/curso/images/tema2/img_10.png' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad utilizada

@@ -112,8 +112,8 @@
 
     p.mb-5 Consiste en la elaboración de un cuadro de jerarquía en el que se escriben los cargos que se identifican dentro del proyecto, para su elaboración debe identificarse la cadena de mando, las áreas están presentes, identificar las funciones que se desarrollan en cada una de las áreas y sus relaciones jerárquicas.
 
-    .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-down")
-      .col-lg-10
+    .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-down").img_fondo_1
+      .col-lg-10.mb-5
         h4.text-center.mb-5 Para la elaboración del organigrama del proyecto se pueden utilizar los siguientes pasos:
       
         img.mb-5.mt-auto.ocultar(src="@/assets/curso/images/tema3/img_11.png")

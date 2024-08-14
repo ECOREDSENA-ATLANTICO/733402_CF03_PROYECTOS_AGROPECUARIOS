@@ -388,7 +388,7 @@
       
     .row.justify-content-center.align-items-center.mb-2(data-aos="fade-zoom-in")
       .col-lg-4.mb-5.align-items-center.justify-content-center
-        .tarjeta.bg-07.p-4
+        .tarjeta.bg-14.p-4
           p.mb-0 Una forma sencilla para definir el flujo de caja puede darse como, la diferencia que existe entre las entradas (ingresos) y las salidas (egresos) de dinero o efectivo que tiene la empresa en un tiempo determinado (año). Por medio de este indicador se muestra el dinero que entra y sale en toda la operación del proyecto.
           p.mb-0 El flujo de caja para Mendieta (2005), posee cuatro elementos básicos que componen el flujo de fondos son:
       

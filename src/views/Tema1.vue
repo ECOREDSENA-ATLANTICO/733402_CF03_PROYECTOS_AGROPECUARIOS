@@ -13,7 +13,7 @@
       .col-lg-7.mb-3(data-aos="fade-left") 
         p.mb-3 El estudio de mercado tiene como finalidad hallar y cuantificar el fragmento de demanda que no ha sido cubierta por la oferta y que puede abastecerse con el producto generado en el proyecto agropecuario.
         
-        .cajon.color-secundario.p-4.ps-5.bg_18.mb-4.mb-lg-0
+        .cajon.color-secundario.p-4.ps-5.bg-05.mb-4.mb-lg-0
           p.mb-0 Cuando se hace referencia al mercado, se está hablando de los factores que influyen en este y la comercialización del bien agrícola o pecuario que será objeto del proyecto; para el desarrollo de este estudio se debe hacer referencia de la identificación del bien (piscicultura, ganadería de leche o de carne, cacao, arándano).
 
       p.mb-5 En el análisis de mercado es necesario conocer las preferencias de los consumidores, identificar quienes van a proveer los insumos necesarios para el proceso de producción, transporte de insumos y productos, conocer la normatividad que rige el sector o que es necesaria para iniciar el trámite para exportación si es del caso, además de los requerimientos técnicos, sanitarios y legales del país donde va a ser enviado el producto.
@@ -52,7 +52,7 @@
                   p.mb-0 Seleccionar los clientes importantes y buscar <b>fidelizarlos.</b>
       
       .col-md-6.mb-3
-        .tarjeta.bg-03.p-2
+        .tarjeta.bg-06.p-2
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/images/tema1/img_4.svg")
@@ -62,7 +62,7 @@
                   p.mb-0 Explorar los mercados <b>innovadores.</b>
       
       .col-md-6.mb-3
-        .tarjeta.bg-03.p-2
+        .tarjeta.bg-06.p-2
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/images/tema1/img_5.svg")
@@ -148,7 +148,7 @@
       .col-md-2.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/images/tema1/img_12.svg' alt='AvatarTop')
-          .tarjeta.bg-03
+          .tarjeta.bg-06
             .p-4
               h5.text-center Sector terciario
               p.text-center O de servicios que realiza actividades de comercialización o prestación de servicios, turismo, educación, transporte, servicios financieros y las TIC.
@@ -250,7 +250,7 @@
                     span Ver video
                     i.fas.fa-file-video
 
-    .tarjeta.tarjeta.bg-05.p-4
+    .tarjeta.tarjeta.bg-05.p-4.slyder_1
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
@@ -355,7 +355,7 @@
       .col-lg-4.mb-3(data-aos="fade-right")
         img.mt-3(src='@/assets/curso/images/tema1/img_32.png'  alt='')
       .col-lg-8.mb-3(data-aos="fade-left") 
-        .cajon.color-primario.p-4.ps-5.bg_18.mb-4.mb-lg-0
+        .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-0
           p.mb-0 En el desarrollo del análisis de la demanda, se debe determinar la población objetivo, es el grupo de personas a las cuales se les desea vender el producto, esta población debe caracterizarse teniendo en cuenta valores como edad, sexo, nivel escolar, estado civil, tamaño de la población (número de personas), tasa de crecimiento; además se debe obtener información sobre nivel actual del ingreso y establecer la zona de influencia que es identificar en lo posible sobre un mapa la zona geográfica en la que se desea comercializar el producto objeto del proyecto; la información anterior también es conocida como área de mercado.
         
     .row.align-items-center.justify-content-center.mb-2
@@ -403,7 +403,7 @@
                   p.mb-0 <b>Los lugares donde suelen hacer las compras </b> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario)
       
       .col-md-6.mb-3
-        .tarjeta.bg-03.p-2
+        .tarjeta.bg-06.p-2
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/images/tema1/img_37.svg")
@@ -413,7 +413,7 @@
                   p.mb-0 La <b>ubicación geográfica</b> de los productores y distribuidores.
       
       .col-md-6.mb-3
-        .tarjeta.bg-03.p-2
+        .tarjeta.bg-06.p-2
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/curso/images/tema1/img_38.svg")
@@ -584,14 +584,13 @@
       
     p.mb-4 La parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro P:
     
-    .row.align-items-center.justify-content-center.mb-5
-      .col-md-8
+    .row.align-items-center.justify-content-center.mb-5.img_fondo_1
+      .col-md-8.mb-5
         figure
           img(src='@/assets/curso/images/tema1/img_53.png', alt='Texto que describa la imagen')
           //- figcaption Leyenda de la imagen 
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-md-8
+      .col-md-8.mb-4
         .titulo-sexto.color-acento-contenido.mb-0
             h5 Gráfico 1. 
             span Ciclo de la vida de un producto 
@@ -604,8 +603,8 @@
       .col-lg-4.mb-3(data-aos="fade-right")
         img.mt-3(src='@/assets/curso/images/tema1/img_55.png'  alt='')
       .col-lg-8.mb-3(data-aos="fade-left") 
-        .cajon.color-primario.p-4.ps-5.bg_18.mb-4.mb-lg-2
-          p.mb-0 Para definir el producto es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
+        .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-2
+          p.mb-0 Para definir el <b>producto</b> es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
         
         p.mb-3 El precio también debe estar establecido de acuerdo con la calidad del producto; por ejemplo tres clases de café con combinaciones de calidad y precio diferentes, el primer café de baja calidad que proviene de mezcla de variedades, malas pasillas, mohoso, con fermento y reposado por lo que se comercializa a un precio económico; Una segunda clase de café de calidad media con pocos defectos, pero con sabor a grano verde, posee un precio que corresponde a una adecuada relación precio/calidad; por último un café especial con una prueba de tasa superior a 85 puntos, de tostión y molienda media, proveniente de cafés arábigos y con denominación de origen.
         
