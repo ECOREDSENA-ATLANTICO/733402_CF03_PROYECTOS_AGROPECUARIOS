@@ -237,3 +237,44 @@
 
 .banner-principal__img img
   max-width: 415px !important
+
+.lista-ul--color.lista-ul--separador
+    list-style: none /* Remueve los marcadores por defecto */
+    padding-left: 0 /* Elimina el padding por defecto del <ul> */
+
+.lista-ul--color.lista-ul--separador li
+    position: relative
+    padding-left: 25px /* Espacio para el ícono */
+
+.lista-ul--color.lista-ul--separador li i
+    position: absolute
+    left: 0
+    top: 0
+
+.lista-ul--color.lista-ul--separador li::before
+  content: ''
+  display: block
+  margin-left: 25px /* Alinea la segunda línea con la primera */
+  text-indent: 0
+
+.lista-ul--cuadro.lista-ul.color-primario 
+  list-style: none /* Remueve los marcadores por defecto */
+  padding-left: 0 /* Elimina el padding por defecto del <ul> */
+  
+.lista-ul--cuadro.lista-ul.color-primario li 
+  display: flex
+  align-items: flex-start
+  
+.lista-ol--cuadro__vineta 
+  flex-shrink: 0 /* Previene que el contenedor del número cambie de tamaño */
+  margin-right: 10px /* Espacio entre el número y el texto */
+
+.lista-ol--cuadro__vineta span 
+  display: inline-block
+  width: 20px /* Ajusta el ancho según sea necesario */
+  text-align: center /* Centra el número dentro del span */
+  
+.lista-ul--cuadro.lista-ul.color-primario li::before 
+  content: ''
+  margin-left: 10px /* Alinea la segunda línea con la primera */
+  
