@@ -9,7 +9,7 @@
       
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-5.mb-3(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema4/img_1.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema4/img_1.png'  alt='')
       .col-lg-7.mb-3(data-aos="fade-left")         
         .cajon.bg-10.p-4.ps-5.bg_18.mb-5.mb-lg-3
           p.mb-0 En el estudio ambiental se deben tener en cuenta además de la legislación que es obligatoria para la producción de los productos agropecuarios, la normatividad que aplica al cuidado de los recursos naturales presenten el área del proyecto, el tratamiento o disposición de los residuos propios del proceso productivo y desechos provenientes de empaques de agroquímicos, de medicamentos veterinarios o empaques sobrantes.
@@ -27,7 +27,7 @@
         p.mb-3 Es importante recordar que en la Constitución Política de Colombia se encuentran las normas y principios ambientales generales, algunos de ellos son:
 
       .col-lg-5.mb-5(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema4/img_2.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema4/img_2.png'  alt='')
 
 
       .col-md-6.mb-3

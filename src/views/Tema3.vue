@@ -9,7 +9,7 @@
       
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-5.mb-3(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema3/img_1.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema3/img_1.png'  alt='')
       .col-lg-7.mb-3(data-aos="fade-left") 
         p.mb-3 El objetivo del estudio administrativo es generar herramientas para poder realizar una adecuada administración del proyecto agropecuario que se desee ejecutar, al igual que los estudios de demanda, técnico, financiero, legal y ambiental, tiene alta relevancia, aquí también se plasma la esencia, las causas y lo que se quiere conseguir en la ejecución del proyecto productivo, además genera orden en los procesos, junto con el registro de las diferentes actividades realizadas día a día en la explotación agropecuaria.
         
@@ -85,7 +85,7 @@
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-5.mb-5(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema3/img_9.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema3/img_9.png'  alt='')
       .col-lg-7.mb-5(data-aos="fade-left")   
         .cajon.bg-11.p-4.ps-5.bg_18.mb-4.mb-lg-0
           p.mb-0 Es una herramienta o técnica de diagnóstico en procesos de producción y proyectos productivos en la que se identifican las debilidades (D) oportunidades (O) fortalezas (F) y amenazas (A); al finalizar el desarrollo de la herramienta podemos realizar un análisis sobre las fortalezas y debilidades que se identifican dentro del proyecto productivo y también se puede realizar un análisis externo del proyecto oportunidades y amenazas que afectan positiva y negativamente el desarrollo de las actividades del proyecto.
@@ -130,7 +130,7 @@
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-5.mb-5(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema3/img_13.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema3/img_13.png'  alt='')
       .col-lg-7.mb-5(data-aos="fade-left")   
         p.mb-0 En la formulación de proyectos agropecuarios el aspecto legal es de gran relevancia debido a que muchas de las actividades que realizamos en el campo están reguladas por la constitución política de Colombia, por el Ministerio de Agricultura y Medio Ambiente (MADR) por la Agencia de Desarrollo Rural (ADR) y por el Instituto Colombiano Agropecuario (ICA); esta última entidad es la encargada de velar por la sanidad de los productos en el país para su exportación e importación. No debe perder de vista la legislación reciente Sistema Nacional de Innovación Agropecuaria (SNIA) la cual fue vista en el componente formativo 1: diagnóstico de la situación problémica en la población, organización o empresa agropecuaria rural.
           
@@ -150,7 +150,7 @@
               p.mb-0 Es así como esta entidad realiza asesoría y acompañamiento a los productores agropecuarios del país para la obtención de certificados tales como se relacionan en la siguiente tabla: 
 
       .col-lg-5.mb-5(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema3/img_15.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema3/img_15.png'  alt='')
 
       .col-lg-10.mb-3(data-aos="zoom-in-down")
         .tabla-b.color-acento-contenido.mb-5
@@ -240,7 +240,7 @@
 
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-5.mb-5(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema3/img_17.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema3/img_17.png'  alt='')
 
       .col-lg-7.mb-5(data-aos="fade-left") 
         p.mb-3 En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
@@ -352,7 +352,7 @@
 
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-5.mb-3(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema3/img_17.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema3/img_17.png'  alt='')
 
       .col-lg-7.mb-3(data-aos="fade-left") 
         p.mb-3 El sector agropecuario en Colombia está enmarcado por la informalidad en la contratación de trabajadores del sector rural, para mejorar las condiciones laborales el gobierno nacional bajo la dirección del ministerio de trabajo y protección social expide el decreto 2616 de 2013 que establece la cotización seguridad social para trabajadores que laboren menos de un mes; este decreto ayuda a mejorar condiciones laborales en términos de aporte a pensión, salud y riesgos laborales de trabajadores de campo, además ayuda a la empresa a cumplir con compromisos de responsabilidad social o políticas orientadas a mejorar las condiciones de vida de los habitantes del área de influencia.

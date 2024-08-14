@@ -277,4 +277,33 @@
 .lista-ul--cuadro.lista-ul.color-primario li::before 
   content: ''
   margin-left: 10px /* Alinea la segunda línea con la primera */
+
+@media (max-width: 991.98px)
+  .img-responsive
+    width: 83.33333% /* Aproximadamente col-10 en Bootstrap */
   
+  .ordenar_tarjeta
+    .col-md-8
+      width: 100% /* Asegura que ocupe todo el ancho */
+
+    .col-md-4
+      width: 100% /* Asegura que ocupe todo el ancho */
+    
+    .col-md-5
+      width: 100% /* Asegura que ocupe todo el ancho */
+
+    .col-md-7
+      width: 100% /* Asegura que ocupe todo el ancho */
+
+@media (max-width: 767.98px)
+  .ordenar_tarjeta
+    .col-md-4
+      order: 2 /* Mueve la imagen debajo del texto */
+
+    .col-md-8
+      order: 1 /* Mueve el texto arriba de la imagen */
+
+@media (min-width: 767.98px)
+  .img-responsive
+    width: auto /* Deja que el tamaño se ajuste automáticamente */
+    /* Base para tarjetas en pantallas grandes */

@@ -22,11 +22,11 @@
         .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
             .col-md-3
-              img.mt-1.w-auto.mx-auto(src='@/assets/curso/images/tema2/img_2.svg'  alt='')
+              img.mt-1.w-auto.mx-auto.mb-2(src='@/assets/curso/images/tema2/img_2.svg'  alt='')
             .col-md-9
               p.mb-0 En este aparte de la formulación de proyectos se debe realizar la descripción del proceso productivo, teniendo en cuenta que debe especificar materiales, insumos, semilla o pie de cría, fertilizantes, concentrado, cantidades, precios, etc. Además, debe indicar la cantidad y costos de la mano de obra, a continuación, vamos a describir brevemente los componentes del estudio técnico:
       .col-lg-5.mb-3(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema2/img_3.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema2/img_3.png'  alt='')
       
     Separador
 
@@ -35,7 +35,7 @@
     
     .row.align-items-center.justify-content-center.mb-5
       .col-md-1
-        img.w-auto.mx-auto(src='@/assets/curso/images/tema2/img_4.svg'  alt='')
+        img.w-auto.mx-auto.img-responsive.mb-2(src='@/assets/curso/images/tema2/img_4.svg'  alt='')
       .col-md-11
         p.mb-0 En el análisis del estudio técnico la localización hace referencia a la ubicación espacial de la explotación agrícola o pecuaria; para ello se debe tener en cuenta criterios estratégicos, institucionales, técnicos, sociales y dos aspectos como la macro localización aquí se encuentran los entornos nacional y regional (ubicación del mercado de consumo, las fuentes de materias primas y mano de obra disponible) el segundo aspecto es la micro localización entorno de la zona urbana o rural (cercanía con el mercado consumidor, infraestructura y servicios).
 
@@ -53,10 +53,10 @@
         img.mt-3.w-auto.mx-auto(src='@/assets/curso/images/tema2/img_6.png'  alt='')
       
     
-    .row.align-items-center.justify-content-star.mb-1.ps-2.mb-3(data-aos="zoom-in-down")
-      .col-md-4 
-        img.w-auto.mx-auto(src='@/assets/curso/images/tema2/img_7.png'  alt='')
-      .col-md-8 
+    .row.ordenar_tarjeta.align-items-center.justify-content-star.mb-1.ps-2.mb-3(data-aos="zoom-in-down")
+      .col-md-4.order-1.order-md-2.ordenar_tarjeta
+        img.w-auto.mx-auto.img-responsive(src='@/assets/curso/images/tema2/img_7.png'  alt='')
+      .col-md-8.ordenar_tarjeta.order-2.order-md-1
         .col-sm
           ul.lista-ul--cuadro.lista-ul
             li 
@@ -108,23 +108,23 @@
       p.mb-3 Cuando se habla del tamaño del proyecto se hace referencia a la capacidad que se tiene de producir el bien durante el tiempo que va a durar el proyecto. Para iniciar con este análisis, debe determinarse la unidad de medida del tamaño del proyecto, si es para una planta de faenado la unidad de medida puede ser el número de sacrificios por día, si es un cultivo de flores para exportación, la unidad puede ser el número de ramos exportados por día o por semana.
       p.mb-0.text-bold Por otro lado, es útil aclarar ciertos términos con respecto a la capacidad del proyecto, podemos distinguir tres situaciones:
 
-    .row.mb-5
-      .col-md-2.col-lg.mb-5.mb-lg-0
-        .tarjeta.bg-03
+    .row.mb-3
+      .col-md-4.mb-5.mb-lg-0
+        .tarjeta.h-100.bg-03
           .p-4
             img(src='@/assets/curso/images/tema2/img_8.png' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad diseñada
             p.text-center Corresponde al máximo nivel posible de producción o de prestación del servicio
 
-      .col-md-2.col-lg.mb-5.mb-lg-0
-        .tarjeta.bg-06
+      .col-md-4.mb-5.mb-lg-0
+        .tarjeta.h-100.bg-06
           .p-4
             img(src='@/assets/curso/images/tema2/img_9.png' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad instalada
             p.text-center Corresponde a la capacidad máxima disponible permanentemente.
 
-      .col-md-2.col-lg.mb-5.mb-lg-0
-        .tarjeta.bg-04
+      .col-md-4.mb-5.mb-lg-0
+        .tarjeta.h-100.bg-04
           .p-4
             img(src='@/assets/curso/images/tema2/img_10.png' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad utilizada
@@ -141,7 +141,7 @@
             .col-md-10
               p.mb-0 Un factor que puede ayudar en la definición del tamaño del proyecto es la relación del mercado con los costos unitarios, si el resultado es que posee los costos mínimos y además tiene la capacidad de satisfacer el crecimiento de la demanda ese será el tamaño adecuado para el proyecto agropecuario.
       .col-lg-5.mb-3(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema2/img_12.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema2/img_12.png'  alt='')
 
     Separador
 

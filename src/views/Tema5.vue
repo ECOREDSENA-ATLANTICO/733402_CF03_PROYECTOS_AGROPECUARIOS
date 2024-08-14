@@ -9,7 +9,7 @@
       
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-5.mb-3(data-aos="fade-right")
-        img.mt-3(src='@/assets/curso/images/tema5/img_1.png'  alt='')
+        img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema5/img_1.png'  alt='')
       .col-lg-7.mb-3(data-aos="fade-left")         
         p.mb-3 El aspecto financiero es el que nos va a mostrar la viabilidad del proyecto o no, para ello se utilizan una serie de herramientas financieras que podemos comparar con las de otros proyectos y así poder tomar la decisión de implementar el proyecto.
         h4 Para poder contar con las herramientas de evaluación este estudio se divide en dos partes que son:
