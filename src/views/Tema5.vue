@@ -41,17 +41,23 @@
       .col-lg-10.bg-color-1.px-3.py-2.mb-0
         .h3.mx-5.mb-0.mt-1 Costos fijos
       
-    p.mb-3 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p 25.
+    p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p 25.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-md-8
-        .titulo-sexto.color-acento-contenido.mb-0
-            h5 Tabla 2. 
-            span Tabla de costos fijos, proyecto cacao asociado a plátano
-
-        table
-          thead 
-            tr
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-10.mb-5
+        .tarjeta.color-primario.p-2.banner_tarjeta
+          .row.justify-content-around.align-items-center.p-3
+            .col-auto
+              img(src="@/assets/curso/images/tema3/img_10.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-1 Tabla 1.
+                  p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
+                .col-sm-auto
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 3_ Tabla 1 Algunas normas nacionales del sector agropecuario.xlsx')" target="_blank")
+                    span Ver tabla
+                    i.fas.fa-file-excel
                   
     
     .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -60,326 +66,43 @@
       
     p.mb-3 Son aquellos que cambian en proporción directa con los volúmenes de producción y ventas, por ejemplo: materias primas, mano de obra a destajo, comisiones, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc. Jiménez, 2010, p 25.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-md-12
-        .titulo-sexto.color-acento-contenido.mb-4
-            h5 Tabla 3. 
-            span Tabla de costos variables, proyecto cacao asociado a plátano
-
-        //- .tabla-c.color-acento-contenido.mb-3
-        //-   table.text-small
-        //-     caption Nota. Costos fijos. Barón (2021).
-        //-     thead.text-center
-        //-       tr.th_1 
-        //-         th(rowspan="2") Costos variables
-        //-         th(colspan="4") Año 1
-        //-         th(colspan="2") Año 2
-        //-         th(colspan="2") Año 3
-        //-         th(colspan="2") Año 4
-
-        //-       tr.th_2 
-        //-         th Unidad
-        //-         th Cantidad
-        //-         th Valor unitario
-        //-         th Valor total año 1
-        //-         th Cantidad
-        //-         th Valor total año 2
-        //-         th Cantidad
-        //-         th Valor total año 3
-        //-         th Cantidad
-        //-         th Valor total año 4
-            
-        //-     tbody.text-center
-              
-        //-       tr 
-        //-         td Costos mano de obra
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-              
-        //-       tr 
-        //-         td ESTABLECIMIENTO
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-       tr
-        //-         td Preparación terreno (Tumbe, repique y zoca)
-        //-         td Jornal
-        //-         td 20
-        //-         td 22.000
-        //-         td 440.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Trazo, ahoyado y siembra de Cacao
-        //-         td Jornal
-        //-         td 32
-        //-         td 22.000
-        //-         td 704.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Trazo, ahoyado y siembra de Plátano
-        //-         td Jornal
-        //-         td 33
-        //-         td 22.000
-        //-         td 726.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Aplicación de correctivos cacao (Cal dolomita)
-        //-         td Jornal
-        //-         td 2
-        //-         td 22.000
-        //-         td 44.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Aplicación de correctivos plátano (Cal dolomita)
-        //-         td Jornal
-        //-         td 3
-        //-         td 22.000
-        //-         td 66.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Desyerbes y plateos en cacao (cada 3 meses) 5 veces 1 prmi
-        //-         td Jornal
-        //-         td 10
-        //-         td 22.000
-        //-         td 220.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Desyerbes y plateos en plátano (cada 3 meses) 5 veces 1 prmi
-        //-         td Jornal
-        //-         td 15
-        //-         td 22.000
-        //-         td 330.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Aplicación de fertilizantes en cacao (cada 3 meses) 5 veces
-        //-         td Jornal
-        //-         td 9
-        //-         td 22.000
-        //-         td 198.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Aplicación de fertilizantes en plátano (cada 3 meses) 5 veces
-        //-         td Jornal
-        //-         td 7
-        //-         td 22.000
-        //-         td 154.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Manejo sanitario de cacao
-        //-         td Jornal
-        //-         td 20
-        //-         td 22.000
-        //-         td 440.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td Manejo sanitario de plátano (deshoje, deshije, deschicote)
-        //-         td Jornal
-        //-         td 30
-        //-         td 22.000
-        //-         td 660.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr
-        //-         td SUBTOTAL ESTABLECIMIENTO
-        //-         td 
-        //-         td 148,50
-        //-         td 
-        //-         td 3.767.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-        //-       tr 
-        //-         td SOSTENIMIENTO
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-              
-        //-       tr
-        //-         td Resiembra Cacao, Plátano
-        //-         td Jornal
-        //-         td 9
-        //-         td 22.000
-        //-         td 198.000,00
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td -
-              
-        //-       tr
-        //-         td Desyerbe Platos Cacao
-        //-         td Jornal
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td 10,00
-        //-         td 220.000
-        //-         td 6
-        //-         td 132.000
-        //-         td 4
-        //-         td 88.000
-              
-        //-       tr
-        //-         td Desyerbe Platos Plátano
-        //-         td Jornal
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td 6,00
-        //-         td 132.000
-        //-         td 5
-        //-         td 110.000
-        //-         td 6
-        //-         td 132.000
-              
-        //-       tr
-        //-         td Manejo fitosanitario Cacao
-        //-         td Jornal
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td 3,50
-        //-         td 77.000
-        //-         td 10
-        //-         td 220.000
-        //-         td 12
-        //-         td 264.000
-              
-        //-       tr
-        //-         td Manejo fitosanitario Plátano
-        //-         td Jornal
-        //-         td -
-        //-         td -
-        //-         td -
-        //-         td 9,00
-        //-         td 198.000
-        //-         td 8
-        //-         td 176.000
-        //-         td 4
-        //-         td 88.000
-              
-        //-       tr
-        //-         td SUBTOTAL SOSTENIMIENTO
-        //-         td 
-        //-         td 148,50
-        //-         td 
-        //-         td 3.767.000,00
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-        //-         td 0
-              
-              
-      
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-10.mb-5
+        .tarjeta.color-primario.p-2.banner_tarjeta
+          .row.justify-content-around.align-items-center.p-3
+            .col-auto
+              img(src="@/assets/curso/images/tema3/img_10.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-1 Tabla 2.
+                  p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
+                .col-sm-auto
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
+                    span Ver tabla
+                    i.fas.fa-file-excel
+                                
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-10.mb-2(data-aos="fade-left")         
         .cajon.color-acento-contenido.p-4.ps-5.bg_18.mb-5.mb-lg-3
           p.mb-2 El siguiente paso es la elaboración de los ingresos de los productos que se van a producir en la explotación; para ello se debe tener en cuenta el año de inicio de la producción, volúmenes iniciales (cantidad) de producción, unidad de medida que fue establecida para el proyecto y precio de venta.
           p.mb-2 Se establece que este análisis de costos e ingresos se proyecta a cinco (5) años, que sería el periodo por evaluar en el proyecto.
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-md-12
-        .titulo-sexto.color-acento-contenido.mb-0
-            h5 Tabla 4. 
-            span Análisis de ingresos del proyecto cacao asociado a plátano
-
-        table
-          thead 
-            tr
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-10.mb-5
+        .tarjeta.color-primario.p-2.banner_tarjeta
+          .row.justify-content-around.align-items-center.p-3
+            .col-auto
+              img(src="@/assets/curso/images/tema3/img_10.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-1 Tabla 3.
+                  p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano
+                .col-sm-auto
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 6_Tabla 3. Costos variables.xlsx')" target="_blank")
+                    span Ver tabla
+                    i.fas.fa-file-excel
 
     Separador
 
