@@ -150,17 +150,23 @@
                 p El valor de desecho o salvamento de los activos del proyecto.
           
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-md-10(data-aos="fade-zoom-in")
-        .titulo-sexto.color-acento-contenido.mb-0
-            h5 Tabla 5. 
-            span Presentación matricial del flujo de fondos
-
-        table.mb-3
-          thead 
-            tr
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-10.mb-5
+        .tarjeta.color-primario.p-2.banner_tarjeta
+          .row.justify-content-around.align-items-center.p-3
+            .col-auto
+              img(src="@/assets/curso/images/tema3/img_10.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-1 Tabla 4.
+                  p.mb-0 Presentación matricial del flujo de fondos
+                .col-sm-auto
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Tabla 4. Presentación matricial del flujo de fondos. Pagina 161.pdf')" target="_blank")
+                    span Ver tabla
+                    i.fas.fa-file-pdf
         
-        p.mb-2 Como se observa en la tabla el flujo de caja está compuesto básicamente por ingresos y costos de inversión, operación y mantenimiento y los valores de salvamento, según Mendieta (2005), las siguientes son las características de ingresos y costos:
+      p.mb-3 Como se observa en la tabla el flujo de caja está compuesto básicamente por ingresos y costos de inversión, operación y mantenimiento y los valores de salvamento, según Mendieta (2005), las siguientes son las características de ingresos y costos:
       
     .row.justify-content-center.align-items-center.mb-2
       .col-md-12.mb-3(data-aos="fade-zoom-in")
