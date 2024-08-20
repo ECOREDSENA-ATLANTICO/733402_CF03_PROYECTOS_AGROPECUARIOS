@@ -239,12 +239,12 @@
   max-width: 415px !important
 
 .lista-ul--color.lista-ul--separador
-    list-style: none /* Remueve los marcadores por defecto */
-    padding-left: 0 /* Elimina el padding por defecto del <ul> */
+    list-style: none
+    padding-left: 0
 
 .lista-ul--color.lista-ul--separador li
     position: relative
-    padding-left: 25px /* Espacio para el ícono */
+    padding-left: 25px
 
 .lista-ul--color.lista-ul--separador li i
     position: absolute
@@ -254,59 +254,58 @@
 .lista-ul--color.lista-ul--separador li::before
   content: ''
   display: block
-  margin-left: 25px /* Alinea la segunda línea con la primera */
+  margin-left: 25px
   text-indent: 0
 
 .lista-ul--cuadro.lista-ul.color-primario 
-  list-style: none /* Remueve los marcadores por defecto */
-  padding-left: 0 /* Elimina el padding por defecto del <ul> */
+  list-style: none
+  padding-left: 0
   
 .lista-ul--cuadro.lista-ul.color-primario li 
   display: flex
   align-items: flex-start
   
 .lista-ol--cuadro__vineta 
-  flex-shrink: 0 /* Previene que el contenedor del número cambie de tamaño */
-  margin-right: 10px /* Espacio entre el número y el texto */
+  flex-shrink: 0
+  margin-right: 10px
 
 .lista-ol--cuadro__vineta span 
   display: inline-block
-  width: 20px /* Ajusta el ancho según sea necesario */
-  text-align: center /* Centra el número dentro del span */
+  width: 20px
+  text-align: center
   
 .lista-ul--cuadro.lista-ul.color-primario li::before 
   content: ''
-  margin-left: 10px /* Alinea la segunda línea con la primera */
+  margin-left: 10px
 
 @media (max-width: 991.98px)
   .img-responsive
-    width: 83.33333% /* Aproximadamente col-10 en Bootstrap */
+    width: 83.33333%
   
   .ordenar_tarjeta
     .col-md-8
-      width: 100% /* Asegura que ocupe todo el ancho */
+      width: 100%
 
     .col-md-4
-      width: 100% /* Asegura que ocupe todo el ancho */
+      width: 100%
     
     .col-md-5
-      width: 100% /* Asegura que ocupe todo el ancho */
+      width: 100%
 
     .col-md-7
-      width: 100% /* Asegura que ocupe todo el ancho */
+      width: 100%
 
 @media (max-width: 767.98px)
   .ordenar_tarjeta
     .col-md-4
-      order: 2 /* Mueve la imagen debajo del texto */
+      order: 2
 
     .col-md-8
-      order: 1 /* Mueve el texto arriba de la imagen */
+      order: 1
 
 @media (min-width: 767.98px)
   .img-responsive
-    width: auto /* Deja que el tamaño se ajuste automáticamente */
-    /* Base para tarjetas en pantallas grandes */
+    width: auto
 
 .linea-tiempo-d__item--selected, .linea-tiempo-d__item--selected
   .linea-tiempo-d__item__content,.tarjeta,.tarjeta--gris
@@ -318,3 +317,8 @@
 
 .linea-tiempo-d__item__dots:after
   border-left: 5px dotted #C7C7C7 !important
+
+@media (max-width: 768.98px)
+  .slyder_2
+    .col-lg-6
+      width: 50% !important

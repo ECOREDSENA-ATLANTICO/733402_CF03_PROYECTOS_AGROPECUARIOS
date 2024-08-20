@@ -489,7 +489,7 @@
       
     .row.justify-content-center
       .col-lg-12
-        SlyderF.custom.mb-5.slyder_responsive(columnas="col-lg-6 col-xl-3")
+        SlyderF.custom.mb-5.slyder_responsive.slyder_2(columnas="col-lg-6 col-xl-3")
           .tarjeta.tarjeta--slyder.bg-05.p-4
             .row.justify-content-center.mb-3
               .col-12
