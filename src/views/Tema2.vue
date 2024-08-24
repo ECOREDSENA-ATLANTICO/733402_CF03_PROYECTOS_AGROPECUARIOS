@@ -79,7 +79,7 @@
                   | Condiciones de orden fiscal y tributaria. 
                 li 
                   i.fas.fa-angle-right
-                  | Existencia suficiente y adecuada de infraestructura (vías, energía, comunicaciones, educación, salud, etc.) 
+                  | Existencia suficiente y adecuada de infraestructura (vías, energía, comunicaciones, educación, salud, etc.). 
                 li 
                   i.fas.fa-angle-right
                   | Disponibilidad y calidad de servicios públicos. 
@@ -91,10 +91,10 @@
                   | Condiciones generales de vida.
                 li 
                   i.fas.fa-angle-right
-                  | Condiciones meteorológicas para el buen desarrollo de la planta y la baja incidencia de plagas y enfermedades (temperatura, humedad, etc.) 
+                  | Condiciones meteorológicas para el buen desarrollo de la planta y la baja incidencia de plagas y enfermedades (temperatura, humedad, etc.). 
                 li 
                   i.fas.fa-angle-right
-                  | Precio de la tierra. (Miranda, 2005, p.133) 
+                  | Precio de la tierra. (Miranda, 2005, p.133). 
                 li 
                   i.fas.fa-angle-right
                   | Disponibilidad, costo y calidad (capacitada en la labor) de la mano de obra en la región, (Miranda, 2005, p.133).
@@ -114,7 +114,7 @@
           .p-4
             img(src='@/assets/curso/images/tema2/img_8.png' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad diseñada
-            p.text-center Corresponde al máximo nivel posible de producción o de prestación del servicio
+            p.text-center Corresponde al máximo nivel posible de producción o de prestación del servicio.
 
       .col-md-4.mb-5.mb-lg-0
         .tarjeta.h-100.bg-06

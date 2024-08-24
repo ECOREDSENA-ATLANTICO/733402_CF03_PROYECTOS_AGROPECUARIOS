@@ -55,7 +55,7 @@
 
           .row(numero="3" titulo="Objetivo")
             .col-md-7.mb-4.mb-md-0
-              p Son metas propuestas para lograr lo que se pretende con la creación y puesta en marcha del proyecto, se caracterizan por ser medibles o cuantificables, detallados, claros, fáciles de entender, son limitados en el tiempo y deben poder realizarse por las personas que trabajan en la organización. Ejemplo, producir mensualmente 2000 kilos de plátano hartón de primera calidad durante los dos primeros años del proyecto productivo.
+              p Son metas propuestas para lograr lo que se pretende con la creación y puesta en marcha del proyecto, se caracterizan por ser medibles o cuantificables, detallados, claros, fáciles de entender, son limitados en el tiempo y deben poder realizarse por las personas que trabajan en la organización. Ejemplo, producir mensualmente 2000 kilos de plátano hartón de primera calidad, durante los dos primeros años del proyecto productivo.
       
             .col-md-5
               figure
@@ -63,7 +63,7 @@
           
           .row(numero="4" titulo="Políticas")
             .col-md-7.mb-4.mb-md-0
-              p Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo agrosana entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo agrosana, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo agrosana ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015 cuyas estipulaciones son de obligado cumplimiento. Agrosana, 2015.
+              p Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo AGROSANA entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo AGROSANA, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo AGROSANA ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015 cuyas estipulaciones son de obligado cumplimiento. AGROSANA, 2015.
       
             .col-md-5
               figure
@@ -101,7 +101,7 @@
                   h4.mb-1 Herramienta DOFA
                   p.mb-0 Para conocer más acerca de la herramienta DOFA, puede descargar el siguiente recurso.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="http://www.fao.org/3/CA1923ES/ca1923es.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
       
@@ -164,7 +164,7 @@
                 td Por medio de la cual se establecen los requisitos para la certificación en buenas prácticas agrícolas en producción primaria de vegetales y otras especies para consumo humano.
               tr 
                 td.text-center.text-bold Resolución 2304 de 2015
-                td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción primaria de ovinos y caprinos destinados al sacrificio para consumo humano.
+                td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción primaria de ovinos y caprinos destinados al sacrificio para consumo humano.
               tr 
                 td.text-center.text-bold Resolución ICA 448 de 2016
                 td Por medio de las cuales se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación en fresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
@@ -197,7 +197,7 @@
                 td Por la cual se determina el valor promedio nacional de los costos de establecimiento y mantenimiento por hectárea de bosque plantado, se fija la cuantía máxima porcentual que se reconocerá por concepto de certificado de incentivo forestal y se fija el Incentivo por árbol, para el año 2010.
               tr 
                 td.text-center.text-bold Resolución 36 de 2009
-                td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicada diario oficial 47262 de 2009)
+                td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicada diario oficial 47262 de 2009).
               tr 
                 td.text-center.text-bold Resolución 1442 de 2008
                 td Por la cual se establece el procedimiento para la expedición del dictamen técnico-ambiental al que alude la norma andina para el registro y control de plaguicidas químicos de uso agrícola, decisión 436, de la comisión de la comunidad andina, y se toman otras determinaciones.
@@ -214,7 +214,7 @@
                   h4.mb-1 Recurso web
                   p.mb-0 Si está interesado en la normatividad para certificarse en buenas prácticas agrícolas y/o buenas prácticas pecuarias, diríjase al siguiente enlace.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx" target="_blank")
                     span Ver sitio
                     i.fas.fa-file-pdf
 
@@ -229,7 +229,7 @@
                   h4.mb-1 Recurso web
                   p.mb-0 Para conocer en detalle la normatividad ICA, ingresar al siguiente enlace.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://www.ica.gov.co/normatividad/normas-nacionales/resoluciones" target="_blank")
                     span Ver sitio
                     i.fas.fa-file-pdf
     
@@ -244,14 +244,14 @@
 
       .col-lg-7.mb-5(data-aos="fade-left") 
         p.mb-3 En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
-        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (cámara de comercio de Medellín, 2021, p3).
+        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de comercio de Medellín, 2021, p3).
         
         .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
             .col-md-2
               img.w-auto.mx-auto(src='@/assets/curso/images/tema3/img_18.svg'  alt='')
             .col-md-10
-              p.mb-0 Cuando se registra como persona jurídica es importante conocer las características de cada una de ellas, según la cámara de comercio de Medellín, existen los siguientes tipos de sociedades:
+              p.mb-0 Cuando se registra como persona jurídica es importante conocer las características de cada una de ellas, según la Cámara de comercio de Medellín, existen los siguientes tipos de sociedades:
       
       .col-lg-10.mb-4(data-aos="zoom-in-down")
         img.mb-5.mt-auto.ocultar(src="@/assets/curso/images/tema3/img_19.png")
@@ -268,7 +268,7 @@
                   h4.mb-2 Recurso web
                   p.mb-0 Superintendencia de sociedades. Cartillas y guías.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://www.supersociedades.gov.co/delegatura_aec/informes_publicaciones/responsabilidad_social/Paginas/cartillas_guias.aspx" target="_blank")
                     span Ver sitio
                     i.fas.fa-file-pdf
 
@@ -283,7 +283,7 @@
                   h4.mb-3 Guía tipo societario
                   p.mb-0.text-small Para ampliar la información puede consultar la guía de tipos societarios de la Cámara de Comercio de Medellín (2021).
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://www.camaramedellin.com.co/Portals/0/Documentos/2019/GuiaTipoSocietario__FormatoPDF_ago20.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
 
@@ -312,7 +312,7 @@
                   h4.mb-1 Recurso web
                   p.mb-0.text-small Ministerio del trabajo. Tipos de contrato.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo" target="_blank")
                     span Ir al sitio
                     i.fas.fa-file-pdf
       
@@ -331,7 +331,7 @@
                   h4.mb-1 El contrato de trabajo SENA
                   p.mb-0.text-small Documento SENA.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 4_Documento SENA el contrato de trabajo.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
 
@@ -346,7 +346,7 @@
                   h4.mb-1 Recurso PDF
                   p.mb-0.text-small Información y orientación laboral para la población colombiana en situación de retorno.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://repositoryoim.org/bitstream/handle/20.500.11788/1997/CARTILLA%20DE%20INFORMACION%20Y%20ORIENTACION%20LABORAL_WEB.pdf?sequence=1&isAllowed=y" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
 
@@ -368,7 +368,7 @@
                   h4.mb-1 Recurso PDF
                   p.mb-0.text-small Decreto 2616 del 20 de noviembre de 2013.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="http://wsp.presidencia.gov.co/Normativa/Decretos/2013/Documents/NOVIEMBRE/20/DECRETO%202616%20DEL%2020%20DE%20NOVIEMBRE%20DE%202013.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
 
@@ -383,7 +383,7 @@
                   h4.mb-1 Recurso PDF
                   p.mb-0.text-small Abecé de la contratación por semanas.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://www.mintrabajo.gov.co/documents/20147/241327/abece_cotizacion_por_semanas.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
   

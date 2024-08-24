@@ -166,14 +166,14 @@
                     span Ver tabla
                     i.fas.fa-file-pdf
         
-      p.mb-3 Como se observa en la tabla el flujo de caja está compuesto básicamente por ingresos y costos de inversión, operación y mantenimiento y los valores de salvamento, según Mendieta (2005), las siguientes son las características de ingresos y costos:
+      p.mb-3 Como se presenta en la tabla el flujo de caja está compuesto básicamente por ingresos y costos de inversión, operación y mantenimiento y los valores de salvamento, según Mendieta (2005), las siguientes son las características de ingresos y costos:
       
     .row.justify-content-center.align-items-center.mb-2
       .col-md-12.mb-3(data-aos="fade-zoom-in")
         LineaTiempoD.color-acento-contenido.mb-4
           .row(numero="1" titulo="Ingresos")
             .col-md-7.mb-4.mb-md-0
-              p Es el dinero percibido por la venta del producto o productos que deben ser registrados en el año que se efectúa la venta; se debe anotar que los ingresos registrados en el flujo de fondos del proyecto deben incluir, tanto los ingresos operativos (por venta del producto o prestación del servicio) como los ingresos financieros (por inversión de reserva, por ejemplo). Mendieta, 2005. P 162
+              p Es el dinero percibido por la venta del producto o productos que deben ser registrados en el año que se efectúa la venta; se debe anotar que los ingresos registrados en el flujo de fondos del proyecto deben incluir, tanto los ingresos operativos (por venta del producto o prestación del servicio) como los ingresos financieros (por inversión de reserva, por ejemplo). Mendieta, 2005. P 162.
       
             .col-md-5
               figure

@@ -141,7 +141,7 @@
                   h4.mb-1 Recurso web
                   p.mb-0 Normatividad ambiental y sanitaria. Unidad de Planeación Minero Energética (UPME)
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM2_1_Normas_y_principios_ambientales_co" target="_blank")
                     span Ver sitio
                     i.fas.fa-file-pdf
       
