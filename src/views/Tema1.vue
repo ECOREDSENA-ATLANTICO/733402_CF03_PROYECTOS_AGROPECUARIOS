@@ -596,7 +596,7 @@
             span Ciclo de la vida de un producto 
 
         figure
-          img(src='@/assets/curso/images/tema1/img_54.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/images/tema1/img_54.png', alt='En la imagen se muestra el ciclo de vida del producto , introducción, crecimiento, madurez y declive. Así mismo determina las ventas, el tiempo y los beneficios.')
           figcaption Nota. Tomado de Martínez (2017) 
     
     .row.align-items-center.justify-content-center.mb-4
@@ -615,7 +615,7 @@
             span Estrategia según precio y calidad. 
 
         figure
-          img(src='@/assets/curso/images/tema1/img_56.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/images/tema1/img_56.png', alt='La estrategia según el precio y la calidad, se determina en calidad, ya sea baja y alta, en precio, ya sea alto y bajo.')
           figcaption Nota. Tomado de Sanchez, L.J. (2021)
       
       .col-lg-10.mb-3

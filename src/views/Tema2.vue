@@ -154,52 +154,42 @@
       .col-md-10.mb-3(data-aos="zoom-in-down")
         .tarjeta.bg-03.p-2
           .row.justify-content-around.align-items-center
-            .col-auto
+            .col-md-3
               img(src="@/assets/curso/images/tema2/img_13.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Proceso productivo del componente agropecuario</b>  (cultivo de arándano, cría y levante de cerdos o el proceso de producción escogido).
+            .col-md-9
+              p.mb-0 <b>Proceso productivo del componente agropecuario</b>  (cultivo de arándano, cría y levante de cerdos o el proceso de producción escogido).
 
       .col-md-10.mb-3(data-aos="zoom-in-down")
         .tarjeta.bg-05.p-2
           .row.justify-content-around.align-items-center
-            .col-auto
+            .col-md-3
               img(src="@/assets/curso/images/tema2/img_14.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Condiciones ambientales </b>(identificar variables como temperatura, humedad relativa, régimen y distribución de lluvias, radiación solar, altura sobre el nivel del mar, etc.).
+            .col-md-9
+              p.mb-0 <b>Condiciones ambientales </b>(identificar variables como temperatura, humedad relativa, régimen y distribución de lluvias, radiación solar, altura sobre el nivel del mar, etc.).
 
       .col-md-10.mb-3(data-aos="zoom-in-down")
         .tarjeta.bg-06.p-2
           .row.justify-content-around.align-items-center
-            .col-auto
+            .col-md-3
               img(src="@/assets/curso/images/tema2/img_15.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Requerimientos nutricionales </b>(nivel nutricional del suelo, necesidades nutricionales de las plantas, necesidades nutricionales de los semovientes, fertilizantes o abonos orgánicos necesarios, concentrados y porcentaje nutricional necesarios, etc.).
+            .col-md-9
+              p.mb-0 <b>Requerimientos nutricionales </b>(nivel nutricional del suelo, necesidades nutricionales de las plantas, necesidades nutricionales de los semovientes, fertilizantes o abonos orgánicos necesarios, concentrados y porcentaje nutricional necesarios, etc.).
 
       .col-md-10.mb-3(data-aos="zoom-in-down")
         .tarjeta.bg-04.p-2
           .row.justify-content-around.align-items-center
-            .col-auto
+            .col-md-3
               img(src="@/assets/curso/images/tema2/img_16.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Proceso productivo detallado</b> (listado de equipos, herramienta o maquinaria, distribución espacial, preparación del suelo, enmiendas, siembra, cantidad de semilla, variedad, disponibilidad, riego, fertilización; pie de cría, raza, instalaciones, agua, tiempo de cría o levante, etc.).
+            .col-md-9
+              p.mb-0 <b>Proceso productivo detallado</b> (listado de equipos, herramienta o maquinaria, distribución espacial, preparación del suelo, enmiendas, siembra, cantidad de semilla, variedad, disponibilidad, riego, fertilización; pie de cría, raza, instalaciones, agua, tiempo de cría o levante, etc.).
 
       .col-md-10.mb-3(data-aos="zoom-in-down")
         .tarjeta.bg-03.p-2
           .row.justify-content-around.align-items-center
-            .col-auto
+            .col-md-3
               img(src="@/assets/curso/images/tema2/img_17.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Manejo poscosecha o labores de sacrificio, empaque </b>(listado de equipos, herramienta o maquinaria, distribución espacial, describir las actividades de manera muy detallada).
+            .col-md-9
+              p.mb-0 <b>Manejo poscosecha o labores de sacrificio, empaque </b>(listado de equipos, herramienta o maquinaria, distribución espacial, describir las actividades de manera muy detallada).
 
     Separador
 

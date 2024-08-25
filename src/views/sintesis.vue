@@ -25,7 +25,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis de formulación de los componentes de estudio para proyectos agropecuarios son: estudio de mercado, estudio técnico, estudio administrativo, estudio ambiental y estudio financiero.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
