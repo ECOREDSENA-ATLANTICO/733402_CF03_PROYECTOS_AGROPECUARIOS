@@ -116,8 +116,8 @@
       .col-lg-10.mb-5
         h4.text-center.mb-5 Para la elaboración del organigrama del proyecto se pueden utilizar los siguientes pasos:
       
-        img.mb-5.mt-auto.ocultar(src="@/assets/curso/images/tema3/img_11.png")
-        img.mb-5.mt-auto.mostrar(src="@/assets/curso/images/tema3/img_12.png")
+        img.mb-5.mt-auto.ocultar(src="@/assets/curso/images/tema3/img_11.png" alt="A continuación se puede apreciar en la figura los pasos para la elaboración del organigrama del proyecto: -Establecer la cadena de mando. -Identificar las áreas de trabajo. -Identificar las funciones de cada una de las áreas. -Establecer hasta dónde llega la responsabilidad de cada uno de los cargos que se encuentran en cada área. -Identificar si la relación jerárquica va de arriba hacia abajo o si es horizontal. -El organigrama ayuda a identificar la toma de decisiones con el fin de delegar funciones y diseñar diferentes estrategias.")
+        img.mb-5.mt-auto.mostrar(src="@/assets/curso/images/tema3/img_12.png" alt="A continuación se puede apreciar en la figura los pasos para la elaboración del organigrama del proyecto: -Establecer la cadena de mando. -Identificar las áreas de trabajo. -Identificar las funciones de cada una de las áreas. -Establecer hasta dónde llega la responsabilidad de cada uno de los cargos que se encuentran en cada área. -Identificar si la relación jerárquica va de arriba hacia abajo o si es horizontal. -El organigrama ayuda a identificar la toma de decisiones con el fin de delegar funciones y diseñar diferentes estrategias.")
 
         .cajon.bg-10.p-4.ps-5.bg_18.mb-4.mb-lg-0
           p.mb-0 El organigrama ayuda a identificar la toma de decisiones con el fin de delegar funciones y diseñar diferentes estrategias.
@@ -254,8 +254,8 @@
               p.mb-0 Cuando se registra como persona jurídica es importante conocer las características de cada una de ellas, según la Cámara de comercio de Medellín, existen los siguientes tipos de sociedades:
       
       .col-lg-10.mb-4(data-aos="zoom-in-down")
-        img.mb-5.mt-auto.ocultar(src="@/assets/curso/images/tema3/img_19.png")
-        img.mb-5.mt-auto.mostrar(src="@/assets/curso/images/tema3/img_20.png")
+        img.mb-5.mt-auto.ocultar(src="@/assets/curso/images/tema3/img_19.png" alt="En la siguiente imagen se relaciona, según la cámara de comercio de Medellín, los siguientes tipos de sociedades: -Sociedad de comandita simple. -Sociedad en comandita por acciones. -Sociedad de responsabilidad limitada. -Sociedad anónima. -Sociedad por Acciones Simplificada (SAS). -Empresa unipersonal.")
+        img.mb-5.mt-auto.mostrar(src="@/assets/curso/images/tema3/img_20.png" alt="En la siguiente imagen se relaciona, según la cámara de comercio de Medellín, los siguientes tipos de sociedades: -Sociedad de comandita simple. -Sociedad en comandita por acciones. -Sociedad de responsabilidad limitada. -Sociedad anónima. -Sociedad por Acciones Simplificada (SAS). -Empresa unipersonal.")
 
       .col-lg-6.mb-5(data-aos="fade-left") 
         .tarjeta.color-primario.p-3.banner_tarjeta
