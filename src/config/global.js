@@ -217,7 +217,7 @@ export default {
       tema: 'Guías de tipos societarios',
       referencia: 'Cámara de Comercio de Medellín. 2021',
       tipo: 'Guía',
-      link: 'Downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
+      link: 'downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
     },
     {
       tema: 'Análisis FODA',
@@ -243,7 +243,7 @@ export default {
       referencia: 'Puentes, M. G. 2011',
       tipo: 'Libro',
       link:
-        'Downloads/Formulacion-y-evaluacion-de-proyectos-agropecuarios-Vista-preliminar-del-libro.pdf',
+        'downloads/Formulacion-y-evaluacion-de-proyectos-agropecuarios-Vista-preliminar-del-libro.pdf',
     },
     {
       tema: 'Cartillas y guías',
