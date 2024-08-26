@@ -265,7 +265,7 @@ export default {
       referencia: 'Ministerio del Trabajo',
       tipo: 'Cartilla',
       link:
-        'https://repositoryoim.org/bitstream/handle/20.500.11788/1997/CARTILLA%20DE%20INFORMACION%20Y%20ORIENTACION%20LABORAL_WEB.pdf?sequence=1&isAllowed=y',
+        'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
     },
     {
       tema: 'Decreto 2616 del 20 de noviembre de 2013',

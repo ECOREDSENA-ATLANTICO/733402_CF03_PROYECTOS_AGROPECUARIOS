@@ -215,7 +215,7 @@
                   p.mb-0 Si está interesado en la normatividad para certificarse en buenas prácticas agrícolas y/o buenas prácticas pecuarias, diríjase al siguiente enlace.
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(href="https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx" target="_blank")
-                    span Ver sitio
+                    span Consultar sitio
                     i.fas.fa-file-pdf
 
       .col-lg-6.mb-5
@@ -230,7 +230,7 @@
                   p.mb-0 Para conocer en detalle la normatividad ICA, ingresar al siguiente enlace.
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(href="https://www.ica.gov.co/normatividad/normas-nacionales/resoluciones" target="_blank")
-                    span Ver sitio
+                    span Consultar sitio
                     i.fas.fa-file-pdf
     
     .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -269,7 +269,7 @@
                   p.mb-0 Superintendencia de sociedades. Cartillas y guías.
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(href="https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas" target="_blank")
-                    span Ver sitio
+                    span Consultar sitio
                     i.fas.fa-file-pdf
 
       .col-lg-6.mb-5(data-aos="fade-right") 
@@ -346,7 +346,7 @@
                   h4.mb-1 Recurso PDF
                   p.mb-0.text-small Información y orientación laboral para la población colombiana en situación de retorno.
                 .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://repositoryoim.org/bitstream/handle/20.500.11788/1997/CARTILLA%20DE%20INFORMACION%20Y%20ORIENTACION%20LABORAL_WEB.pdf?sequence=1&isAllowed=y" target="_blank")
+                  a.boton.color-acento-botones.text-white(href="https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
 
