@@ -217,8 +217,7 @@ export default {
       tema: 'Guías de tipos societarios',
       referencia: 'Cámara de Comercio de Medellín. 2021',
       tipo: 'Guía',
-      link:
-        'https://www.camaramedellin.com.co/Portals/0/Documentos/2019/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
+      link: 'Downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
     },
     {
       tema: 'Análisis FODA',
@@ -244,14 +243,14 @@ export default {
       referencia: 'Puentes, M. G. 2011',
       tipo: 'Libro',
       link:
-        'https://www.ecoeediciones.com/libros/libros-de-ciencias-agrarias/formulacion-y-evaluacion-de-proyectos-agropecuarios-1ra-edicion/',
+        'Downloads/Formulacion-y-evaluacion-de-proyectos-agropecuarios-Vista-preliminar-del-libro.pdf',
     },
     {
       tema: 'Cartillas y guías',
       referencia: 'Superintendencia de sociedades',
       tipo: 'Cartillas y guías',
       link:
-        'https://www.supersociedades.gov.co/delegatura_aec/informes_publicaciones/responsabilidad_social/Paginas/cartillas_guias.aspx',
+        'https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas',
     },
     {
       tema: 'Tipos de contrato laborales',
@@ -287,7 +286,7 @@ export default {
       referencia: 'Unidad de Planeación Minero Energética (UPME)',
       tipo: 'Normatividad',
       link:
-        'http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM2_1_Normas_y_principios_ambientales_co',
+        'https://www.ica.gov.co/normatividad/indice-de-normatividad.aspx#:~:text=En%20la%20secci%C3%B3n%20encontrar%C3%A1%20la%20normatividad%20aplicable%20al,de%20los%20tratados%20o%20acuerdos%20suscritos%20por%20Colombia',
     },
   ],
   glosario: [
@@ -359,7 +358,7 @@ export default {
   referencias: [
     {
       referencia: 'Agrosana. (2015). Política de Calidad. Agrosana.',
-      link: 'http://www.agrosana.es/politica-de-calidad',
+      link: '',
     },
     {
       referencia: 'Agrosavia. (2021). Qué hacemos. Valores.',
@@ -369,7 +368,7 @@ export default {
       referencia:
         'Cámara de Comercio de Medellín. (2021). Guías de tipos societarios.',
       link:
-        'https://www.camaramedellin.com.co/Portals/0/Documentos/2019/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
+        'https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf',
     },
     {
       referencia:
@@ -379,7 +378,7 @@ export default {
     {
       referencia:
         'Enciclopedia Económica (2021). Mercadeo. Funciones del Mercado.',
-      link: 'https://enciclopediaeconomica.com/mercadeo/',
+      link: '',
     },
     {
       referencia: 'FAO. (2018). Análisis FODA.',
@@ -392,7 +391,7 @@ export default {
     },
     {
       referencia:
-        'Jimenez, L.W. (2010). Contabilidad de Costos. FOCO Ediciones Bogotá',
+        'Jimenez, L.W. (2010). Contabilidad de Costos. FOCO Ediciones Bogotá.',
       link: '',
     },
     {
@@ -402,7 +401,7 @@ export default {
     },
     {
       referencia:
-        'Mendieta. 2005. Formulación y evaluación de proyectos de inversión agropecuaria. Universidad Agraria. Nicaragua.',
+        'Mendieta. (2005). Formulación y evaluación de proyectos de inversión agropecuaria. Universidad Agraria. Nicaragua.',
       link: '',
     },
     {
@@ -416,12 +415,6 @@ export default {
         'Ministerio de Trabajo y Protección Social. (2021). Conoce los tipos de contrato de trabajo.',
       link:
         'https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo',
-    },
-    {
-      referencia:
-        'Ministerio de Trabajo y Protección Social. (2017). Información y Orientación laboral para la población colombiana en situación de retorno.',
-      link:
-        'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
     },
     {
       referencia:
@@ -445,7 +438,7 @@ export default {
     },
     {
       referencia:
-        'Universidad Autónoma de México. Estudio Técnico. Facultad de Economía. (pp. 53-93)',
+        'Universidad Autónoma de México. Estudio Técnico. Facultad de Economía. (pp. 53-93).',
       link: 'http://www.economia.unam.mx/secss/docs/tesisfe/GomezAM/cap2a.pdf',
     },
     {

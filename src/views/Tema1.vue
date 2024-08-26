@@ -233,23 +233,6 @@
           .col-md-5.mb-3.ordenar_tarjeta 
             img.mx-auto.img-responsive(src='@/assets/curso/images/tema1/img_18.png'  alt='')
           
-
-    .row.align-items-center.justify-content-center.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.mb-5
-        .tarjeta.color-primario.p-3.banner_tarjeta
-          .row.justify-content-around.align-items-center.p-3
-            .col-auto
-              img(src="@/assets/curso/images/tema1/img_19.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Identificación del bien o servicio
-                  p.mb-0 Estimado aprendiz, para la identificación inicialmente debemos tener presente a qué sector productivo pertenece el producto agropecuario. A continuación más detalle a través del siguiente video: 
-                .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
-                    span Ver video
-                    i.fas.fa-file-video
-
     .tarjeta.tarjeta.bg-05.p-4.slyder_1
       SlyderA(tipo="b")
         .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
