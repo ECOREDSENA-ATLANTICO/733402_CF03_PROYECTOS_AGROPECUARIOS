@@ -56,7 +56,7 @@
                   p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 3_ Tabla 1 Algunas normas nacionales del sector agropecuario.xlsx')" target="_blank")
-                    span Ver tabla
+                    span Consultar tabla
                     i.fas.fa-file-excel
                   
     
@@ -79,7 +79,7 @@
                   p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
-                    span Ver tabla
+                    span Consultar tabla
                     i.fas.fa-file-excel
                                 
     .row.align-items-center.justify-content-center.mb-0
@@ -101,7 +101,7 @@
                   p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 6_Tabla 3. Costos variables.xlsx')" target="_blank")
-                    span Ver tabla
+                    span Consultar tabla
                     i.fas.fa-file-excel
 
     Separador
