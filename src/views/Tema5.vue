@@ -151,21 +151,101 @@
           
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-10.mb-5
-        .tarjeta.color-primario.p-2.banner_tarjeta
-          .row.justify-content-around.align-items-center.p-3
-            .col-auto
-              img(src="@/assets/curso/images/tema3/img_10.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Tabla 4.
-                  p.mb-0 Presentación matricial del flujo de fondos
-                .col-sm-auto
-                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Tabla 4. Presentación matricial del flujo de fondos. Pagina 161.pdf')" target="_blank")
-                    span Ver tabla
-                    i.fas.fa-file-pdf
+      .col-md-12
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Tabla 4. 
+          span Presentación matricial del flujo de fondos
         
+        .tabla-b.color-acento-botones.mb-5 
+          table
+            thead
+              tr.encabezado_tabla
+                th 
+                th Año 0
+                th Año 1
+                th Año 2 - Año (T-1)
+                th Año T
+
+            tbody 
+              tr
+                td.text-start.letra_tabla(style="width: 22%") INGRESOS
+                td 
+                td 
+                td 
+                td 
+              tr
+                td.text-start.negrita Ventas
+                td 
+                td 
+                td 
+                td 
+              tr
+                td.text-start.negrita Producto 1
+                td.text-end $ 0
+                td.text-end $ 0
+                td.text-end $ 120.000
+                td.text-end $ 120.000
+              tr
+                td.text-start.negrita Producto 2
+                td.text-end $ 0
+                td.text-end $ 100.000
+                td.text-end $ 150.000
+                td.text-end $ 150.000
+              tr
+                td.text-start.negrita Subsidio
+                td.text-end $ 500.00
+                td.text-end $ 100.000
+                td.text-end $ 0
+                td.text-end $ 0
+              tr
+                td.text-start.negrita Valor de salvamento
+                td.text-end -
+                td.text-end -
+                td.text-end -
+                td.text-end $ 300.000
+              tr.negrita
+                td.text-start.letra_tabla Total ingresos
+                td.text-end $ 500.000
+                td.text-end $ 200.000
+                td.text-end $ 270.000
+                td.text-end $ 570.000
+              tr
+                td.text-start.letra_tabla COSTOS
+                td 
+                td 
+                td 
+                td 
+              tr
+                td.text-start.negrita Operación
+                td 
+                td 
+                td 
+                td 
+              tr
+                td.text-start.negrita Materiales
+                td.text-end $ 600.000
+                td.text-end $ 30.000
+                td.text-end $ 50.000
+                td.text-end $ 50.000
+              tr
+                td.text-start.negrita Mano de obra
+                td.text-end $ 0
+                td.text-end $ 30.000
+                td.text-end $ 60.000
+                td.text-end $ 60.000
+              tr.negrita
+                td.text-start.letra_tabla Total costos deducibles
+                td.text-end $ 600.000
+                td.text-end $ 60.000
+                td.text-end $ 110.000
+                td.text-end $ 110.000
+              tr.negrita.pie_tabla
+                td.text-start Ingresos netos gravables
+                td.text-end $ -110.000
+                td.text-end $ 140.000
+                td.text-end $ 160.000
+                td.text-end $ 460.000
+          
       p.mb-3 Como se presenta en la tabla el flujo de caja está compuesto básicamente por ingresos y costos de inversión, operación y mantenimiento y los valores de salvamento, según Mendieta (2005), las siguientes son las características de ingresos y costos:
       
     .row.justify-content-center.align-items-center.mb-2
