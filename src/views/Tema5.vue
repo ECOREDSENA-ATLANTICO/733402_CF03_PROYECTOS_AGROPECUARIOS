@@ -168,7 +168,7 @@
 
             tbody 
               tr
-                td.text-start.letra_tabla(style="width: 22%") INGRESOS
+                td.text-start.letra_tabla(style="width: 23%") INGRESOS
                 td 
                 td 
                 td 
