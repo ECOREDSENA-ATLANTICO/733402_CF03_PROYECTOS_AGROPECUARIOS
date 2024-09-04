@@ -12,13 +12,13 @@
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema5/img_1.png'  alt='')
       .col-lg-7.mb-3(data-aos="fade-left")         
         p.mb-3 El aspecto financiero es el que nos va a mostrar la viabilidad del proyecto o no, para ello se utilizan una serie de herramientas financieras que podemos comparar con las de otros proyectos y así poder tomar la decisión de implementar el proyecto.
-        h4 Para poder contar con las herramientas de evaluación este estudio se divide en dos partes que son:
+        h4 Para poder contar con las herramientas de evaluación, este estudio se divide en dos partes que son:
         
         ul.lista-ul--cuadro.lista-ul.color-primario
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | La organización metódica y presentación de los costos de producción y los ingresos del proyecto agropecuario; y
+            | La organización metódica y presentación de los costos de producción y los ingresos del proyecto agropecuario.
           li 
             .lista-ol--cuadro__vineta
               span 2
@@ -41,30 +41,7 @@
       .col-lg-10.bg-color-1.px-3.py-2.mb-0
         .h3.mx-5.mb-0.mt-1 Costos fijos
       
-    p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p 25.
-
-    .row.justify-content-center.align-items-center.mb-3
-      .col-lg-10.mb-5
-        .tarjeta.color-primario.p-2.banner_tarjeta
-          .row.justify-content-around.align-items-center.p-3
-            .col-auto
-              img(src="@/assets/curso/images/tema3/img_10.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Tabla 1.
-                  p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
-                .col-sm-auto
-                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 3_ Tabla 1 Algunas normas nacionales del sector agropecuario.xlsx')" target="_blank")
-                    span Consultar tabla
-                    i.fas.fa-file-excel
-                  
-    
-    .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.bg-color-1.px-3.py-2.mb-0
-        .h3.mx-5.mb-0.mt-1 Costos variables
-      
-    p.mb-3 Son aquellos que cambian en proporción directa con los volúmenes de producción y ventas, por ejemplo: materias primas, mano de obra a destajo, comisiones, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc. Jiménez, 2010, p 25.
+    p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p. 25.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-10.mb-5
@@ -76,6 +53,29 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Tabla 2.
+                  p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
+                .col-sm-auto
+                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 3_ Tabla 1 Algunas normas nacionales del sector agropecuario.xlsx')" target="_blank")
+                    span Consultar tabla
+                    i.fas.fa-file-excel
+                  
+    
+    .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+      .col-lg-10.bg-color-1.px-3.py-2.mb-0
+        .h3.mx-5.mb-0.mt-1 Costos variables
+      
+    p.mb-3 Son aquellos que cambian en proporción directa con los volúmenes de producción y ventas, por ejemplo: materias primas, mano de obra a destajo, comisiones, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc. Jiménez, 2010, p. 25.
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-10.mb-5
+        .tarjeta.color-primario.p-2.banner_tarjeta
+          .row.justify-content-around.align-items-center.p-3
+            .col-auto
+              img(src="@/assets/curso/images/tema3/img_10.svg").img65
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-1 Tabla 3.
                   p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
@@ -97,7 +97,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Tabla 3.
+                  h4.mb-1 Tabla 4.
                   p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano
                 .col-sm-auto
                   a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Anexo 6_Tabla 3. Costos variables.xlsx')" target="_blank")
@@ -153,7 +153,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-md-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 4. 
+          h5 Tabla 5. 
           span Presentación matricial del flujo de fondos
         
         .tabla-b.color-acento-botones.mb-5 
@@ -253,7 +253,7 @@
         LineaTiempoD.color-acento-contenido.mb-4
           .row(numero="1" titulo="Ingresos")
             .col-md-7.mb-4.mb-md-0
-              p Es el dinero percibido por la venta del producto o productos que deben ser registrados en el año que se efectúa la venta; se debe anotar que los ingresos registrados en el flujo de fondos del proyecto deben incluir, tanto los ingresos operativos (por venta del producto o prestación del servicio) como los ingresos financieros (por inversión de reserva, por ejemplo). Mendieta, 2005. P 162.
+              p Es el dinero percibido por la venta del producto o productos que deben ser registrados en el año que se efectúa la venta; se debe anotar que los ingresos registrados en el flujo de fondos del proyecto deben incluir, tanto los ingresos operativos (por venta del producto o prestación del servicio) como los ingresos financieros (por inversión de reserva, por ejemplo). Mendieta, 2005. p. 162.
       
             .col-md-5
               figure
@@ -261,13 +261,13 @@
 
           .row(numero="2" titulo="Costos")
             .col-md-7.mb-4.mb-md-0
-              p se clasifican en dos categorías, la primera es de costos de inversión que consisten en desembolsos correspondientes a la adquisición de activos fijos o activos nominales y a la financiación del capital de trabajo. Los costos por adquisición de activos fijos que representan los desembolsos por compra de terrenos y edificios, es decir, pago de obras civiles y compra de equipo, maquinaria y obras de instalación o apoyo. Los costos por concepto de activos nominales corresponden a inversiones en activos no tangibles, pero necesarios para poner a funcionar el proyecto, tramitación de patentes como licencias; transferencias de tecnología, además de asistencia técnica; gastos de constitución y organización; así como la capacitación y entrenamiento. Mendieta, 2005 p163.
+              p se clasifican en dos categorías, la primera es de costos de inversión que consisten en desembolsos correspondientes a la adquisición de activos fijos o activos nominales y a la financiación del capital de trabajo. Los costos por adquisición de activos fijos que representan los desembolsos por compra de terrenos y edificios, es decir, pago de obras civiles y compra de equipo, maquinaria y obras de instalación o apoyo. Los costos por concepto de activos nominales corresponden a inversiones en activos no tangibles, pero necesarios para poner a funcionar el proyecto, tramitación de patentes como licencias; transferencias de tecnología, además de asistencia técnica; gastos de constitución y organización; así como la capacitación y entrenamiento. Mendieta, 2005 p. 163.
       
             .col-md-5
               figure
                 img(src='@/assets/curso/images/tema5/img_8.png', alt='Texto que describa la imagen')
           
-        p.mb-3 La segunda categoría son los costos de operación que consisten en los desembolsos por insumos y otros rubros necesarios para el ciclo productivo del proyecto a lo largo de su funcionamiento. Estos costos se pueden clasificar en costos de producción de ventas, administrativas y financieras, los cuales a su vez se desagregan, entre otros, en costos de mano de obra, materias primas e insumos, arriendos y alquileres, como costos financieros e impuestos. Mendieta, 2005 p 164.
+        p.mb-3 La segunda categoría son los costos de operación que consisten en los desembolsos por insumos y otros rubros necesarios para el ciclo productivo del proyecto a lo largo de su funcionamiento. Estos costos se pueden clasificar en costos de producción de ventas, administrativas y financieras, los cuales a su vez se desagregan, entre otros, en costos de mano de obra, materias primas e insumos, arriendos y alquileres, como costos financieros e impuestos. Mendieta, 2005 p. 164.
       
       .col-lg-10.mb-2(data-aos="fade-zoom-in")     
         .cajon.bg-11.p-4.ps-5.bg_18.mb-5.mb-lg-3

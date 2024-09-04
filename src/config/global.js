@@ -215,46 +215,49 @@ export default {
   complementario: [
     {
       tema: 'Guías de tipos societarios',
-      referencia: 'Cámara de Comercio de Medellín. 2021',
+      referencia:
+        'Cámara de Comercio de Medellín. 2021. Guías de tipos societarios.',
       tipo: 'Guía',
       link: 'downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
     },
     {
       tema: 'Análisis FODA',
-      referencia: 'FAO. (2018)',
+      referencia: 'FAO. (2018). Análisis FODA.',
       tipo: 'Diapositivas',
       link: 'http://www.fao.org/3/CA1923ES/ca1923es.pdf',
     },
     {
       tema: 'Buenas prácticas agrícolas y ganaderas',
-      referencia: 'Instituto Colombiano Agropecuario. (2021)',
+      referencia:
+        'Instituto Colombiano Agropecuario. (2021). Buenas prácticas agrícolas y ganaderas.',
       tipo: 'Resolución',
       link: 'https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx',
     },
     {
       tema: 'Normatividad',
-      referencia: 'Instituto Colombiano Agropecuario. (2021)',
+      referencia: 'Instituto Colombiano Agropecuario. (2021). Normatividad.',
       tipo: 'Artículo',
       link:
         'https://www.ica.gov.co/normatividad/normas-nacionales/resoluciones',
     },
     {
       tema: 'Formulación y evaluación de proyectos agropecuarios',
-      referencia: 'Puentes, M. G. 2011',
+      referencia:
+        'Puentes, M. G. 2011. Formulación y evaluación de proyectos agropecuarios.',
       tipo: 'Libro',
       link:
         'downloads/Formulacion-y-evaluacion-de-proyectos-agropecuarios-Vista-preliminar-del-libro.pdf',
     },
     {
       tema: 'Cartillas y guías',
-      referencia: 'Superintendencia de sociedades',
+      referencia: 'Superintendencia de sociedades. Cartillas y guías.',
       tipo: 'Cartillas y guías',
       link:
         'https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas',
     },
     {
       tema: 'Tipos de contrato laborales',
-      referencia: 'Ministerio del Trabajo',
+      referencia: 'Ministerio del Trabajo. Tipos de contrato laborales.',
       tipo: 'Otro',
       link:
         'https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo',
@@ -262,28 +265,32 @@ export default {
     {
       tema:
         'Información y orientación laboral para la población colombiana en situación de retorno',
-      referencia: 'Ministerio del Trabajo',
+      referencia:
+        'Ministerio del Trabajo. Información y orientación laboral para la población colombiana en situación de retorno.',
       tipo: 'Cartilla',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
     },
     {
       tema: 'Decreto 2616 del 20 de noviembre de 2013',
-      referencia: 'Presidencia de la República',
+      referencia:
+        'Presidencia de la República. Decreto 2616 del 20 de noviembre de 2013.',
       tipo: 'Resolución',
       link:
         'http://wsp.presidencia.gov.co/Normativa/Decretos/2013/Documents/NOVIEMBRE/20/DECRETO%202616%20DEL%2020%20DE%20NOVIEMBRE%20DE%202013.pdf',
     },
     {
       tema: 'Abecé de la contratación por semanas',
-      referencia: 'Ministerio del Trabajo',
+      referencia:
+        'Ministerio del Trabajo. Abecé de la contratación por semanas.',
       tipo: 'Cartilla',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/241327/abece_cotizacion_por_semanas.pdf',
     },
     {
       tema: 'Normatividad ambiental y sanitaria',
-      referencia: 'Unidad de Planeación Minero Energética (UPME)',
+      referencia:
+        'Unidad de Planeación Minero Energética (UPME). Normatividad ambiental y sanitaria.',
       tipo: 'Normatividad',
       link:
         'https://www.ica.gov.co/normatividad/indice-de-normatividad.aspx#:~:text=En%20la%20secci%C3%B3n%20encontrar%C3%A1%20la%20normatividad%20aplicable%20al,de%20los%20tratados%20o%20acuerdos%20suscritos%20por%20Colombia',
@@ -338,7 +345,7 @@ export default {
     {
       termino: 'Ciclo del Proyecto',
       significado:
-        'Hace referencia a las etapas de preinversión (identificación, formulación y evaluación), negociación, ejecución, operación y la evaluación ex-post. (Miranda, 2005).',
+        'Hace referencia a las etapas de preinversión (identificación, formulación y evaluación), negociación, ejecución, operación y la evaluación ex-<em>post</em>. (Miranda, 2005).',
     },
     {
       termino: 'Debitar',
@@ -358,7 +365,7 @@ export default {
   referencias: [
     {
       referencia: 'Agrosana. (2015). Política de Calidad. Agrosana.',
-      link: '',
+      link: 'https://agrosana.es/',
     },
     {
       referencia: 'Agrosavia. (2021). Qué hacemos. Valores.',
@@ -373,12 +380,13 @@ export default {
     {
       referencia:
         'Decreto 2616 de 2013. (Ministerio de Trabajo y Protección Social).',
-      link: '',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/241327/decreto_2616_del_20_de_noviembre_de_2013.pdf',
     },
     {
       referencia:
         'Enciclopedia Económica (2021). Mercadeo. Funciones del Mercado.',
-      link: '',
+      link: 'https://economipedia.com/definiciones/mercado.html',
     },
     {
       referencia: 'FAO. (2018). Análisis FODA.',
@@ -392,7 +400,8 @@ export default {
     {
       referencia:
         'Jimenez, L.W. (2010). Contabilidad de Costos. FOCO Ediciones Bogotá.',
-      link: '',
+      link:
+        'https://es.slideshare.net/slideshow/libro-contabilidadcostos-jimenez-william/250511946',
     },
     {
       referencia:
@@ -402,7 +411,7 @@ export default {
     {
       referencia:
         'Mendieta. (2005). Formulación y evaluación de proyectos de inversión agropecuaria. Universidad Agraria. Nicaragua.',
-      link: '',
+      link: 'https://repositorio.una.edu.ni/2437/1/ne14m537.pdf',
     },
     {
       referencia:
@@ -419,22 +428,26 @@ export default {
     {
       referencia:
         'Miranda, M.J. (1999). Gestión de proyectos. Cuarta Edición. MM Editores.',
-      link: '',
+      link:
+        'https://www.academia.edu/17688636/Gesti%C3%B3n_de_Proyectos_Juan_Jose_Miranda_Miranda',
     },
     {
       referencia:
-        'Nuño , L.P. (2012). Administración de Pequeñas Empresas. Red Tercer Milenio.',
-      link: '',
+        'Nuño, L.P. (2012). Administración de Pequeñas Empresas. Red Tercer Milenio.',
+      link:
+        'https://www.academia.edu/36532308/Administraci%C3%B3n_de_peque%C3%B1as_empresas_PIERINA_DEL_REFUGIO_NU%C3%91O_DE_LEON',
     },
     {
       referencia:
         'Puentes, M.G. 2011. Formulación y evaluación de proyectos agropecuarios. Ecoe.',
-      link: '',
+      link:
+        'https://www.ecoeediciones.com/producto/formulacion-y-evaluacion-de-proyectos-agropecuarios-ebook/',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje. (2014). El Contrato de Trabajo. SENA.',
-      link: '',
+      link:
+        'https://normograma.sena.edu.co/docs/concepto_sena_2014-02-0010360_2014.htm',
     },
     {
       referencia:
@@ -459,15 +472,16 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Tatiana Villamil',
-          cargo: 'Responsable del equipo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del ecosistema de recursos educativos digitales (red)',
           centro: 'Dirección General',
         },
         {
           nombre: 'Miguel De Jesús Paredes Maestre',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -478,22 +492,22 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Roberto Augusto Bernal Duque',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro:
             'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Yeison Farid Méndez Ortiz',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Centro Agropecuario “La Granja” – Regional Tolima',
         },
         {
           nombre: 'Orlando Barón Méndez',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro:
             'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
@@ -504,14 +518,14 @@ export default {
         },
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Diseño y Metrología - Distrito Capital',
         },
         {
           nombre: 'Fabian Cuartas Donado',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -520,33 +534,33 @@ export default {
       autores: [
         {
           nombre: 'Eulises Orduz Amezquita',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador web',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Eulises Orduz Amezquita',
           cargo: 'Actividad Didáctica',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Alexander Acosta',
-          cargo: 'Producción audiovisual',
+          cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Liborio de Jesús Castañeda Valencia',
-          cargo: 'Desarrollo Fullstack Junior',
+          cargo: 'Desarrollo <em>Full stack</em> Junior',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -555,27 +569,27 @@ export default {
       autores: [
         {
           nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validación de recursos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validación de recursos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
