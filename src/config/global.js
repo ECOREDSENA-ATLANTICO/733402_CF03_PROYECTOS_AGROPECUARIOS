@@ -214,34 +214,34 @@ export default {
   },
   complementario: [
     {
-      tema: 'Guías de tipos societarios',
+      tema: 'Estudio administrativo',
       referencia:
         'Cámara de Comercio de Medellín. 2021. Guías de tipos societarios.',
       tipo: 'Guía',
       link: 'downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
     },
     {
-      tema: 'Análisis FODA',
+      tema: 'Estudio técnico',
       referencia: 'FAO. (2018). Análisis FODA.',
       tipo: 'Diapositivas',
       link: 'http://www.fao.org/3/CA1923ES/ca1923es.pdf',
     },
     {
-      tema: 'Buenas prácticas agrícolas y ganaderas',
+      tema: 'Estudio técnico',
       referencia:
         'Instituto Colombiano Agropecuario. (2021). Buenas prácticas agrícolas y ganaderas.',
       tipo: 'Resolución',
       link: 'https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx',
     },
     {
-      tema: 'Normatividad',
+      tema: 'Estudio técnico',
       referencia: 'Instituto Colombiano Agropecuario. (2021). Normatividad.',
       tipo: 'Artículo',
       link:
         'https://www.ica.gov.co/normatividad/normas-nacionales/resoluciones',
     },
     {
-      tema: 'Formulación y evaluación de proyectos agropecuarios',
+      tema: 'Estudio técnico',
       referencia:
         'Puentes, M. G. 2011. Formulación y evaluación de proyectos agropecuarios.',
       tipo: 'Libro',
@@ -249,22 +249,21 @@ export default {
         'downloads/Formulacion-y-evaluacion-de-proyectos-agropecuarios-Vista-preliminar-del-libro.pdf',
     },
     {
-      tema: 'Cartillas y guías',
+      tema: 'Estudio administrativo',
       referencia: 'Superintendencia de sociedades. Cartillas y guías.',
       tipo: 'Cartillas y guías',
       link:
         'https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas',
     },
     {
-      tema: 'Tipos de contrato laborales',
+      tema: 'Estudio administrativo',
       referencia: 'Ministerio del Trabajo. Tipos de contrato laborales.',
       tipo: 'Otro',
       link:
         'https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo',
     },
     {
-      tema:
-        'Información y orientación laboral para la población colombiana en situación de retorno',
+      tema: 'Estudio administrativo',
       referencia:
         'Ministerio del Trabajo. Información y orientación laboral para la población colombiana en situación de retorno.',
       tipo: 'Cartilla',
@@ -272,7 +271,7 @@ export default {
         'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
     },
     {
-      tema: 'Decreto 2616 del 20 de noviembre de 2013',
+      tema: 'Estudio administrativo',
       referencia:
         'Presidencia de la República. Decreto 2616 del 20 de noviembre de 2013.',
       tipo: 'Resolución',
@@ -280,7 +279,7 @@ export default {
         'http://wsp.presidencia.gov.co/Normativa/Decretos/2013/Documents/NOVIEMBRE/20/DECRETO%202616%20DEL%2020%20DE%20NOVIEMBRE%20DE%202013.pdf',
     },
     {
-      tema: 'Abecé de la contratación por semanas',
+      tema: 'Estudio administrativo',
       referencia:
         'Ministerio del Trabajo. Abecé de la contratación por semanas.',
       tipo: 'Cartilla',
@@ -288,7 +287,7 @@ export default {
         'https://www.mintrabajo.gov.co/documents/20147/241327/abece_cotizacion_por_semanas.pdf',
     },
     {
-      tema: 'Normatividad ambiental y sanitaria',
+      tema: 'Estudio ambiental',
       referencia:
         'Unidad de Planeación Minero Energética (UPME). Normatividad ambiental y sanitaria.',
       tipo: 'Normatividad',
