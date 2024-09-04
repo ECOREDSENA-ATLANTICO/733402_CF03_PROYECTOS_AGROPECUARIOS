@@ -198,7 +198,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/733402_CF03-DU.pdf',
+        download: 'downloads/733402_CF03-DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -218,7 +218,8 @@ export default {
       referencia:
         'Cámara de Comercio de Medellín. 2021. Guías de tipos societarios.',
       tipo: 'Guía',
-      link: 'downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
+      link:
+        'https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf',
     },
     {
       tema: 'Estudio técnico',
@@ -246,7 +247,7 @@ export default {
         'Puentes, M. G. 2011. Formulación y evaluación de proyectos agropecuarios.',
       tipo: 'Libro',
       link:
-        'downloads/Formulacion-y-evaluacion-de-proyectos-agropecuarios-Vista-preliminar-del-libro.pdf',
+        'https://www.ecoeediciones.com/producto/formulacion-y-evaluacion-de-proyectos-agropecuarios-ebook/',
     },
     {
       tema: 'Estudio administrativo',
