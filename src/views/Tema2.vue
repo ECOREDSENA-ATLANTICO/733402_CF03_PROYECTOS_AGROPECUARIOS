@@ -14,11 +14,11 @@
             :style="{'background-image': `url(${require('@/assets/curso/images/tema2/img_1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El estudio técnico es el momento en que el formulador de proyectos determina las condiciones en la que debe operar el sistema productivo, aquí se indica el tamaño de la explotación agropecuaria, cuánta área debe ser destinada para el cultivo o para el semoviente, cuánta área destino para la poscosecha o para realizar el faenado, localización de la explotación, etc.
+            p.mb-0 El estudio técnico es el momento en que el formulador de proyectos determina las condiciones en la que debe operar el sistema productivo, aquí se indica el tamaño de la explotación agropecuaria, cuánta área debe ser destinada para el cultivo o para el semoviente, cuanta área se destinó para la poscosecha o para realizar el faenado, localización de la explotación, etc.
     
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-7.mb-3(data-aos="fade-left") 
-        p.mb-3 La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico-financiero. Todo estudio técnico tiene como principal objetivo el demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p.1) 
+        p.mb-3 La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico-financiero. Todo estudio técnico tiene como principal objetivo el demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p. 1) 
         .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
             .col-md-3
@@ -37,7 +37,7 @@
       .col-md-1
         img.w-auto.mx-auto.img-responsive.mb-2(src='@/assets/curso/images/tema2/img_4.svg'  alt='')
       .col-md-11
-        p.mb-0 En el análisis del estudio técnico la localización hace referencia a la ubicación espacial de la explotación agrícola o pecuaria; para ello se debe tener en cuenta criterios estratégicos, institucionales, técnicos, sociales y dos aspectos como la macro localización aquí se encuentran los entornos nacional y regional (ubicación del mercado de consumo, las fuentes de materias primas y mano de obra disponible) el segundo aspecto es la micro localización entorno de la zona urbana o rural (cercanía con el mercado consumidor, infraestructura y servicios).
+        p.mb-0 En el análisis del estudio técnico, la localización hace referencia a la ubicación espacial de la explotación agrícola o pecuaria; para ello se debe tener en cuenta criterios estratégicos, institucionales, técnicos, sociales y dos aspectos como la macro localización aquí se encuentran los entornos nacional y regional (ubicación del mercado de consumo, las fuentes de materias primas y mano de obra disponible) el segundo aspecto es la micro localización entorno de la zona urbana o rural (cercanía con el mercado consumidor, infraestructura y servicios).
 
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-7.mb-3(data-aos="fade-left") 

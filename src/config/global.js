@@ -198,7 +198,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/733402_CF03-DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -338,7 +338,7 @@ export default {
     {
       termino: 'Ciclo del Proyecto',
       significado:
-        'Hace referencia a las etapas de preinversión (identificación, formulación y evaluación), negociación, ejecución, operación y la evaluación ex-post. (Miranda, 2005).',
+        'Hace referencia a las etapas de preinversión (identificación, formulación y evaluación), negociación, ejecución, operación y la evaluación ex-<em>post</em>. (Miranda, 2005).',
     },
     {
       termino: 'Debitar',
@@ -358,7 +358,7 @@ export default {
   referencias: [
     {
       referencia: 'Agrosana. (2015). Política de Calidad. Agrosana.',
-      link: '',
+      link: 'https://agrosana.es/',
     },
     {
       referencia: 'Agrosavia. (2021). Qué hacemos. Valores.',
@@ -373,12 +373,13 @@ export default {
     {
       referencia:
         'Decreto 2616 de 2013. (Ministerio de Trabajo y Protección Social).',
-      link: '',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/241327/decreto_2616_del_20_de_noviembre_de_2013.pdf',
     },
     {
       referencia:
         'Enciclopedia Económica (2021). Mercadeo. Funciones del Mercado.',
-      link: '',
+      link: 'https://economipedia.com/definiciones/mercado.html',
     },
     {
       referencia: 'FAO. (2018). Análisis FODA.',
@@ -392,7 +393,8 @@ export default {
     {
       referencia:
         'Jimenez, L.W. (2010). Contabilidad de Costos. FOCO Ediciones Bogotá.',
-      link: '',
+      link:
+        'https://es.slideshare.net/slideshow/libro-contabilidadcostos-jimenez-william/250511946',
     },
     {
       referencia:
@@ -402,7 +404,7 @@ export default {
     {
       referencia:
         'Mendieta. (2005). Formulación y evaluación de proyectos de inversión agropecuaria. Universidad Agraria. Nicaragua.',
-      link: '',
+      link: 'https://repositorio.una.edu.ni/2437/1/ne14m537.pdf',
     },
     {
       referencia:
@@ -419,22 +421,26 @@ export default {
     {
       referencia:
         'Miranda, M.J. (1999). Gestión de proyectos. Cuarta Edición. MM Editores.',
-      link: '',
+      link:
+        'https://www.academia.edu/17688636/Gesti%C3%B3n_de_Proyectos_Juan_Jose_Miranda_Miranda',
     },
     {
       referencia:
-        'Nuño , L.P. (2012). Administración de Pequeñas Empresas. Red Tercer Milenio.',
-      link: '',
+        'Nuño, L.P. (2012). Administración de Pequeñas Empresas. Red Tercer Milenio.',
+      link:
+        'https://www.academia.edu/36532308/Administraci%C3%B3n_de_peque%C3%B1as_empresas_PIERINA_DEL_REFUGIO_NU%C3%91O_DE_LEON',
     },
     {
       referencia:
         'Puentes, M.G. 2011. Formulación y evaluación de proyectos agropecuarios. Ecoe.',
-      link: '',
+      link:
+        'https://www.ecoeediciones.com/producto/formulacion-y-evaluacion-de-proyectos-agropecuarios-ebook/',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje. (2014). El Contrato de Trabajo. SENA.',
-      link: '',
+      link:
+        'https://normograma.sena.edu.co/docs/concepto_sena_2014-02-0010360_2014.htm',
     },
     {
       referencia:
@@ -459,13 +465,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Tatiana Villamil',
-          cargo: 'Responsable del equipo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del ecosistema de recursos educativos digitales (red)',
           centro: 'Dirección General',
         },
         {
           nombre: 'Miguel De Jesús Paredes Maestre',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -478,22 +485,22 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Roberto Augusto Bernal Duque',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro:
             'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Yeison Farid Méndez Ortiz',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Centro Agropecuario “La Granja” – Regional Tolima',
         },
         {
           nombre: 'Orlando Barón Méndez',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro:
             'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
@@ -504,12 +511,12 @@ export default {
         },
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Diseño y Metrología - Distrito Capital',
         },
         {
           nombre: 'Fabian Cuartas Donado',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluador instruccional',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -520,25 +527,25 @@ export default {
       autores: [
         {
           nombre: 'Eulises Orduz Amezquita',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador web',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Eulises Orduz Amezquita',
           cargo: 'Actividad Didáctica',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Alexander Acosta',
-          cargo: 'Producción audiovisual',
+          cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Liborio de Jesús Castañeda Valencia',
-          cargo: 'Desarrollo Fullstack Junior',
+          cargo: 'Desarrollo <em>Full stack</em> Junior',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -555,7 +562,7 @@ export default {
       autores: [
         {
           nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validación de recursos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -573,7 +580,7 @@ export default {
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validación de recursos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },

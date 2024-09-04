@@ -150,8 +150,8 @@
           img(src='@/assets/curso/images/tema1/img_12.svg' alt='AvatarTop')
           .tarjeta.bg-06
             .p-4
-              h5.text-center Sector terciario
-              p.text-center O de servicios que realiza actividades de comercialización o prestación de servicios, turismo, educación, transporte, servicios financieros y las TIC.
+              h5.text-center Sector terciario o de servicios
+              p.text-center Realiza actividades de comercialización o prestación de servicios, turismo, educación, transporte, servicios financieros y las TIC.
   
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-7.mb-3(data-aos="fade-left") 
@@ -244,7 +244,7 @@
             figure
               img(src='@/assets/curso/images/tema1/img_20.png', alt='Texto que describa la imagen')
 
-        .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
+        .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Usuario
             p Aquí se establece la ubicación espacial de los consumidores finales, además identificar, gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p.93)
@@ -260,7 +260,7 @@
           .col-md-4
             figure
               img(src='@/assets/curso/images/tema1/img_22.png', alt='Texto que describa la imagen')
-        .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
+        .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Características físicas
             p Tamaño, color, peso, textura, olor, sabor, aroma, si es perecedero o no, etc. (Miranda, 2005, p.93).
@@ -276,7 +276,7 @@
           .col-md-4
             figure
               img(src='@/assets/curso/images/tema1/img_24.png', alt='Texto que describa la imagen')
-        .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
+        .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Producto
             p Establecer si el producto es de consumo final (duradero o perecedero, necesario o suntuario, habitual no habitual, etc.); producto de temporada, tradicionales, de alta o baja rotación, etc. (Miranda, 2005, p.93).
@@ -292,14 +292,14 @@
           .col-md-4
             figure
               img(src='@/assets/curso/images/tema1/img_26.png', alt='Texto que describa la imagen')
-        .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
+        .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Precios y costos
             p El objetivo de establecer los costos y precios es poder usar esos valores que deben ser indagados con los comercializadores a nivel minorista, mayorista y al consumidor final, para establecer los rangos de precios y costos que puede tener el producto para usarlo en la valoración del posible margen de ganancia y precio de comercialización del producto.
           .col-md-8
             figure
               img(src='@/assets/curso/images/tema1/img_27.png', alt='Texto que describa la imagen')
-        .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
+        .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
             h4 Condiciones legales
             p En este ítem debe realizarse una revisión de la normatividad vigente que pueda afectar el proceso de producción y comercialización; por ejemplo la resolución 407 de 2019 en la que establecen los Planes Departamentales de Extensión Agropecuaria PDEA, en los que se priorizan las líneas productivas que van a recibir recursos públicos para inversión; o la resolución del Instituto Colombiano Agropecuario ICA 4174 de 2009 en la que se reglamenta la certificación en buena prácticas agrícolas en la producción primaria de fruta y vegetales para consumo en fresco o incluso, la resolución ICA 448 de 2016 que permite el registro de predios de producción de fruta fresca para exportación y el registro de los exportadores y plantas empacadoras.
@@ -435,22 +435,6 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 <b>Características de los compradores o usuarios</b> (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p.99).
     
-    .row.align-items-center.justify-content-center.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.mb-5
-        .tarjeta.color-primario.p-3.banner_tarjeta
-          .row.justify-content-around.align-items-center.p-3
-            .col-auto
-              img(src="@/assets/curso/images/tema1/img_42.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Recurso PDF
-                  p.mb-0 Infografía - Identificación de la demanda.
-                .col-sm-auto
-                  a.boton.color-acento-botones.text-white(href="https://docs.google.com/document/d/1PPRatnr8cI2Hxkv8hzg_e3qw3N0FVQs3yvO0rZLNaJE/edit?usp=sharing" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-pdf
-
     Separador  
     
     #t_1_3.titulo-segundo
@@ -575,11 +559,11 @@
     
       .col-md-8.mb-4
         .titulo-sexto.color-acento-contenido.mb-0
-            h5 Gráfico 1. 
+            h5 Figura 1. 
             span Ciclo de la vida de un producto 
 
         figure
-          img(src='@/assets/curso/images/tema1/img_54.png', alt='En la imagen se muestra el ciclo de vida del producto , introducción, crecimiento, madurez y declive. Así mismo determina las ventas, el tiempo y los beneficios.')
+          img(src='@/assets/curso/images/tema1/img_54.png', alt='En la imagen se muestra el ciclo de vida del producto, introducción, crecimiento, madurez y declive. Así mismo determina las ventas, el tiempo y los beneficios.')
           figcaption Nota. Tomado de Martínez (2017) 
     
     .row.align-items-center.justify-content-center.mb-4
@@ -589,12 +573,12 @@
         .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-2
           p.mb-0 Para definir el <b>producto</b> es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
         
-        p.mb-3 El precio también debe estar establecido de acuerdo con la calidad del producto; por ejemplo tres clases de café con combinaciones de calidad y precio diferentes, el primer café de baja calidad que proviene de mezcla de variedades, malas pasillas, mohoso, con fermento y reposado por lo que se comercializa a un precio económico; Una segunda clase de café de calidad media con pocos defectos, pero con sabor a grano verde, posee un precio que corresponde a una adecuada relación precio/calidad; por último un café especial con una prueba de tasa superior a 85 puntos, de tostión y molienda media, proveniente de cafés arábigos y con denominación de origen.
+        p.mb-3 El precio también debe estar establecido de acuerdo con la calidad del producto; por ejemplo tres clases de café con combinaciones de calidad y precio diferentes, el primer café de baja calidad que proviene de mezcla de variedades, malas pasillas, mohoso, con fermento y reposado por lo que se comercializa a un precio económico; una segunda clase de café de calidad media con pocos defectos, pero con sabor a grano verde, posee un precio que corresponde a una adecuada relación precio/calidad; por último un café especial con una prueba de tasa superior a 85 puntos, de tostión y molienda media, proveniente de cafés arábigos y con denominación de origen.
         
     .row.justify-content-center.align-items-center.mb-5
       .col-md-8.mb-4
         .titulo-sexto.color-acento-contenido.mb-0
-            h5 Gráfico 2. 
+            h5 Figura 2. 
             span Estrategia según precio y calidad. 
 
         figure

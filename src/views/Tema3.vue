@@ -32,7 +32,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/images/tema3/img_3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El propósito de la planeación estratégica es identificar para donde desea que va a ir su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc, a continuación se relaciona una breve descripción de cada uno:
+            p.mb-0 El propósito de la planeación estratégica es identificar para donde desea que va a ir su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc. A continuación se relaciona una breve descripción de cada uno:
     
     .row.justify-content-center.align-items-center.mb-2
       .col-md-12
@@ -63,7 +63,7 @@
           
           .row(numero="4" titulo="Políticas")
             .col-md-7.mb-4.mb-md-0
-              p Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo AGROSANA entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo AGROSANA, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo AGROSANA ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015 cuyas estipulaciones son de obligado cumplimiento. AGROSANA, 2015.
+              p Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo AGROSANA entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo AGROSANA, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo AGROSANA ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015, cuyas estipulaciones son de obligado cumplimiento. AGROSANA, 2015.
       
             .col-md-5
               figure
@@ -153,9 +153,13 @@
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema3/img_15.png'  alt='')
 
       .col-lg-10.mb-3(data-aos="zoom-in-down")
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Tabla 1. 
+          span Normatividad agropecuaria
         .tabla-b.color-acento-contenido.mb-5
           .tabla-b
-            table 
+            table
+              caption Nota. Normatividad nacional Barón (2021).
               tr.bg-08 
                 th.text-center.w-35 Norma
                 th.text-center Descripción
@@ -244,7 +248,7 @@
 
       .col-lg-7.mb-5(data-aos="fade-left") 
         p.mb-3 En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
-        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de comercio de Medellín, 2021, p3).
+        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de comercio de Medellín, 2021, p. 3).
         
         .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
