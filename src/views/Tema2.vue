@@ -94,10 +94,10 @@
                   | Condiciones meteorológicas para el buen desarrollo de la planta y la baja incidencia de plagas y enfermedades (temperatura, humedad, etc.). 
                 li 
                   i.fas.fa-angle-right
-                  | Precio de la tierra. (Miranda, 2005, p.133). 
+                  | Precio de la tierra. (Miranda, 2005, p. 133). 
                 li 
                   i.fas.fa-angle-right
-                  | Disponibilidad, costo y calidad (capacitada en la labor) de la mano de obra en la región, (Miranda, 2005, p.133).
+                  | Disponibilidad, costo y calidad (capacitada en la labor) de la mano de obra en la región, (Miranda, 2005, p. 133).
         
     Separador
 

@@ -200,7 +200,7 @@
               | <b> Estructuras reproductivas: </b>  flores ornamentales, coliflor y brócoli.
             li 
               i.fas.fa-angle-right
-              | <b> Estructuras subterráneas: </b> raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p.46). Adaptación realizada por el autor, 2021.
+              | <b> Estructuras subterráneas: </b> raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p. 46). Adaptación realizada por el autor, 2021.
 
     .row.ordenar_tarjeta.align-items-center.justify-content-center.mb-4.ps-2(data-aos="zoom-in-down")
       .col-lg-10
@@ -228,7 +228,7 @@
                   | <b> Ganado lechero </b>
                 li 
                   i.fas.fa-angle-right
-                  | <b> Ganado para carne. </b> (Puentes, 2011, p.46). Adaptación realizada por el autor, 2021.
+                  | <b> Ganado para carne. </b> (Puentes, 2011, p. 46). Adaptación realizada por el autor, 2021.
           
           .col-md-5.mb-3.ordenar_tarjeta 
             img.mx-auto.img-responsive(src='@/assets/curso/images/tema1/img_18.png'  alt='')
@@ -238,7 +238,7 @@
         .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
             h4 Uso
-            p Se debe identificar ¿para qué se usa?, ¿cómo se usa? y ¿cuáles son sus principales aplicaciones? si aplica para el bien o servicio.  (Miranda, 2005, p.92).
+            p Se debe identificar ¿para qué se usa?, ¿cómo se usa? y ¿cuáles son sus principales aplicaciones? si aplica para el bien o servicio.  (Miranda, 2005, p. 92).
 
           .col-md-4
             figure
@@ -247,7 +247,7 @@
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Usuario
-            p Aquí se establece la ubicación espacial de los consumidores finales, además identificar, gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p.93)
+            p Aquí se establece la ubicación espacial de los consumidores finales, además identificar, gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p. 93)
 
           .col-md-8
             figure
@@ -255,7 +255,7 @@
         .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
             h4 Presentación
-            p La forma de presentación es uno de los factores que más liga al producto con el usuario, y que suele tener alguna importancia en la estructura de costos, es el caso de la leche pasteurizada, por ejemplo, que su precio varía significativamente dependiendo de que su presentación sea en botella, en bolsa, o en caja de cartón. (Miranda, 2005, p.93).
+            p La forma de presentación es uno de los factores que más liga al producto con el usuario, y que suele tener alguna importancia en la estructura de costos, es el caso de la leche pasteurizada, por ejemplo, que su precio varía significativamente dependiendo de que su presentación sea en botella, en bolsa, o en caja de cartón. (Miranda, 2005, p. 93).
 
           .col-md-4
             figure
@@ -263,7 +263,7 @@
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Características físicas
-            p Tamaño, color, peso, textura, olor, sabor, aroma, si es perecedero o no, etc. (Miranda, 2005, p.93).
+            p Tamaño, color, peso, textura, olor, sabor, aroma, si es perecedero o no, etc. (Miranda, 2005, p. 93).
 
           .col-md-8
             figure
@@ -271,7 +271,7 @@
         .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
             h4 Composición
-            p Si es un producto procesado se indica que insumos se usaron en la producción, esto también ayuda a identificar si los insumos usados en el proceso se consiguen en la región, el costo, tipo de transporte, la disponibilidad, etc. (Miranda, 2005, p.93).
+            p Si es un producto procesado se indica que insumos se usaron en la producción, esto también ayuda a identificar si los insumos usados en el proceso se consiguen en la región, el costo, tipo de transporte, la disponibilidad, etc. (Miranda, 2005, p. 93).
 
           .col-md-4
             figure
@@ -279,7 +279,7 @@
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Producto
-            p Establecer si el producto es de consumo final (duradero o perecedero, necesario o suntuario, habitual no habitual, etc.); producto de temporada, tradicionales, de alta o baja rotación, etc. (Miranda, 2005, p.93).
+            p Establecer si el producto es de consumo final (duradero o perecedero, necesario o suntuario, habitual no habitual, etc.); producto de temporada, tradicionales, de alta o baja rotación, etc. (Miranda, 2005, p. 93).
 
           .col-md-8
             figure
@@ -287,7 +287,7 @@
         .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
             h4 Sustitutos
-            p Se debe indicar la existencia y características de otros productos que pueden competir en su consumo. Un bien puede convertirse en sustituto por efectos de cambio en la calidad, en la presentación, en los precios, en el gusto de los consumidores, en la presión publicitaria o a causa de los desarrollos tecnológicos, etc. (Miranda, 2005, p.93).
+            p Se debe indicar la existencia y características de otros productos que pueden competir en su consumo. Un bien puede convertirse en sustituto por efectos de cambio en la calidad, en la presentación, en los precios, en el gusto de los consumidores, en la presión publicitaria o a causa de los desarrollos tecnológicos, etc. (Miranda, 2005, p. 93).
 
           .col-md-4
             figure
@@ -348,7 +348,7 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 Todos los mercados están compuestos por una serie de submercados o “segmentos” de consumidores que tienen entre ellos características comunes de tipo demográfico, geográfico, psicológico, económico, étnico, cultural, etc. <br>
-            p.mb-1 <b> - (Miranda, 2005, p.99).</b>
+            p.mb-1 <b> - (Miranda, 2005, p. 99).</b>
             i.fas.fa-quote-right
       .col-lg-5.mb-3(data-aos="fade-left")
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/images/tema1/img_33.png'  alt='')
@@ -433,7 +433,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Características de los compradores o usuarios</b> (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p.99).
+                  p.mb-0 <b>Características de los compradores o usuarios</b> (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p. 99).
     
     Separador  
     
@@ -449,7 +449,7 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 La oferta es también una variable que depende de otras, tales como: los costos y disponibilidad de los insumos, las restricciones determinadas por el gobierno, los desarrollos tecnológicos, las alteraciones del clima (especialmente en la oferta agrícola y agroindustrial), los precios de los bienes sustitutos y complementarios, la capacidad instalada de la competencia, etc. <br>
-            p.mb-1 <b> - (Miranda, 2005, p.99).</b>
+            p.mb-1 <b> - (Miranda, 2005, p. 99).</b>
             i.fas.fa-quote-right
     
     p.mb-5 <b>Para iniciar la identificación de la oferta, es necesario generar una lista con los datos de los proveedores de insumos con la siguiente información:</b>
@@ -519,7 +519,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/images/tema1/img_51.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En la determinación de precio de los productos se tiene en cuenta el valor de los insumos, condiciones de la oferta y la demanda; una definición de precio es la siguiente: es lo que se da a cambio por un bien o servicio, puede ser el dinero que se entrega por un producto deseado. Es un condicionante, puesto que está sujeto a los precios que maneja la competencia. (Puentes, 2011, p.55). 
+            p.mb-0 En la determinación de precio de los productos se tiene en cuenta el valor de los insumos, condiciones de la oferta y la demanda; una definición de precio es la siguiente: es lo que se da a cambio por un bien o servicio, puede ser el dinero que se entrega por un producto deseado. Es un condicionante, puesto que está sujeto a los precios que maneja la competencia. (Puentes, 2011, p. 55). 
     
     
     h4.text-center.mb-5 Existen cinco objetivos que se pueden utilizar para la fijación del precio por parte de una empresa o productor:
@@ -528,19 +528,19 @@
       .col-md-8.mb-4
         LineaTiempoD.color-acento-contenido 
           .row(numero="1" titulo="Objetivos de ventas o participación en el mercado")
-            p Estos objetivos persiguen el incremento de las ventas o el aumento de la participación en el mercado (porcentaje de las ventas de un producto con respecto a las ventas totales de esa industria) y se logra al asignar un precio más bajo que el ofrecido por la competencia. (Puentes, 2011, p.53).
+            p Estos objetivos persiguen el incremento de las ventas o el aumento de la participación en el mercado (porcentaje de las ventas de un producto con respecto a las ventas totales de esa industria) y se logra al asignar un precio más bajo que el ofrecido por la competencia. (Puentes, 2011, p. 53).
 
           .row(numero="2" titulo="Objetivos orientados a utilidades")
             p Persiguen elevar al máximo el nivel de las utilidades.
 
           .row(numero="3" titulo="Objetivos de efecto competitivo")
-            p Buscan generar en la competencia una disminución en sus ventas. (Puentes, 2011, p.53).
+            p Buscan generar en la competencia una disminución en sus ventas. (Puentes, 2011, p. 53).
       
           .row(numero="4" titulo="Objetivos de satisfacción del cliente")
-            p Asignación de precios que busca la satisfacción del cliente como principal objetivo. (Puentes, 2011, p.53).
+            p Asignación de precios que busca la satisfacción del cliente como principal objetivo. (Puentes, 2011, p. 53).
       
           .row(numero="5" titulo="Objetivos de mejoramiento de imagen")
-            p El precio permite hacer inferencias acerca de la calidad del producto. Este objetivo tiene como particularidad su importancia en los productos de lujo. (Puentes, 2011, p.53).
+            p El precio permite hacer inferencias acerca de la calidad del producto. Este objetivo tiene como particularidad su importancia en los productos de lujo. (Puentes, 2011, p. 53).
       
       .col-md-4.mb-4 
         img.mx-auto.img-responsive(src='@/assets/curso/images/tema1/img_52.png'  alt='')

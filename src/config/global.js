@@ -474,7 +474,7 @@ export default {
           nombre: 'Miguel De Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -518,7 +518,7 @@ export default {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -541,19 +541,19 @@ export default {
           nombre: 'Alexander Acosta',
           cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Liborio de Jesús Castañeda Valencia',
           cargo: 'Desarrollo <em>Full stack</em> Junior',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -564,25 +564,25 @@ export default {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
